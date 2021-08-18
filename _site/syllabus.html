@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>POLS102 Section 02 Fall 2021 Syllabus</title>
+
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">My Website</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">POLS102 Section 02 Fall 2021 Syllabus</h1>
+
+</div>
+
+
+<p>POLS102-02: Comparative Politics<br />
+CRN 26049<br />
+Tuesday and Thursday 1:50pm - 3:20pm<br />
+Miller Hall 102 Lewis &amp; Clark College<br />
+Fall 2021</p>
+<p>Ian R. McDonald, Ph.D.<br />
+<a href="mailto:ianmcdonald@lclark.edu" class="email">ianmcdonald@lclark.edu</a><br />
+Office: Miller Hall 434<br />
+Phone: +1.503.768.7456</p>
+<div id="office-hours" class="section level3">
+<h3>Office Hours</h3>
+<p>Tuesdays 9:30-11 am &amp; Fridays 10-11am or additional times by schedule. I can meet with you in person or video conference.</p>
+</div>
+<div id="course-description" class="section level2">
+<h2>Course Description</h2>
+<p>What are the prospects for democracy in Egypt, Zimbabwe, or China? Why do countries like Afghanistan, Somalia, and Syria suffer from political instability and violence? Comparative politics seeks to answer these and similar questions by understanding and comparing political behavior and institutions in countries throughout the world.</p>
+<p>The goal of this course is to introduce students to the key theoretical frameworks and analytical methods in the field of comparative politics. We will start by asking the question “What are that problems that any effective political system must resolve”? We will then review the three major theoretical lenses in comparative politics by analyzing the extended example of democracy and its causes. While continually drawing on our methodological toolkit throughout the course, we will then analyze a variety of topics such as state-building and ethnic conflict, to name only a few.</p>
+<p>Each week we will read a diverse set of articles involving research from different areas of the world. Students will therefore have the chance to expand and hone their comparative as well as analytic thinking skills. Students can expect to read predominantly scholarly articles, but will also be exposed to various materials from the news media or films. Overall, this course should prepare students to engage in comparative politics in a variety of settings, be they academic or otherwise.</p>
+<div id="learning-goals" class="section level3">
+<h3>Learning Goals</h3>
+<p>Learning is an interactive process that requires active engagement by the professor and students. After taking this class students should:</p>
+<ul>
+<li><p>Gain basic fluency in the main concepts and terms of comparative politics (e.g. the state, regime, and nation-state). Understand some of the main ways that societies vary (in their institutions, resources, and culture), and how this variation influences important political, social, or economic outcomes (e.g. form of democratic governance, ethnic conflict, or economic growth).</p></li>
+<li><p>Be able to engage meaningfully with and demonstrate knowledge about a region or regions of the world beyond the United States (through reading, writing, conversation, presentation and/or first-hand experiences). Topics of study include historical experience, cultural traditions, past and current social and economic realities, or transnational issues.</p></li>
+<li><p>Learn how to use empirically based criteria, rather than just opinion, to assess the merits of a theory or argument. For example, students will learn how to identify the structure of a scholarly argument (“why might X1 <em>cause</em> Y, but X2 would not not cause Y”), and the logic of the argument (“why does X lead to Y?”). Students will learn how to communicate this assessment in both oral and written form.</p></li>
+<li><p>Improve, with practice, the ability to craft an argument in written form that is appropriately structured and well written stylistically.</p></li>
+</ul>
+</div>
+<div id="course-materials" class="section level3">
+<h3>Course Materials</h3>
+<p>You will need access to a copy of one book:<br />
+<strong>Ezrow, Natasha M. and Erica Frantz. 2011. <em>Dictators and Dictatorships: Understanding Authoritarian Regimes and Their Leaders.</em> Bloomsbury. ISBN 978-1-4411-7896-6.</strong> Copies of the book are available for sale in the bookstore and the usual places online. I will also place a copy on three hour reserve in the library early in the semester.</p>
+<p>All other assigned readings are all online and accessible in the Google Classroom site at <a href="https://bit.ly/3sp9FTy" class="uri">https://bit.ly/3sp9FTy</a> or directly at the source website. See the links in the syllabus class schedule for details.</p>
+</div>
+<div id="google-classroom" class="section level3">
+<h3>Google Classroom</h3>
+<p>The Google Classroom invitation link is <a href="https://bit.ly/3srZbDa" class="uri">https://bit.ly/3srZbDa</a>.</p>
+</div>
+</div>
+<div id="course-expectations" class="section level2">
+<h2>Course Expectations</h2>
+<div id="reading" class="section level3">
+<h3>Reading</h3>
+<p>There is generally more than one reading assigned for each day. This is because this class will introduce you to the many voices that make-up the conversation about comparative politics. Additionally, this class will ask you to practice your abilities moving from theory to specific case studies or examples. These readings are short and you should plan to read all of them carefully in their entirety.</p>
+<p>Students should be prepared to answer the following three questions each class period:</p>
+<ol style="list-style-type: decimal">
+<li>What is the main question that animates the reading?<br />
+</li>
+<li>What case(s) are used to answer the main question?<br />
+</li>
+<li>In one or two sentences, what is the main answer to the question?</li>
+</ol>
+<p>You will find to Prof. Gilbert’s reading guides for individual readings here:<br />
+<a href="https://bit.ly/3gaB6vC" class="uri">https://bit.ly/3gaB6vC</a></p>
+<p>You will find Prof. Gilbert’s general guide How to Read Works in Comparative Politics:<br />
+<a href="https://bit.ly/3gaEois" class="uri">https://bit.ly/3gaEois</a></p>
+</div>
+<div id="health-and-safety-expectations" class="section level3">
+<h3>Health and Safety Expectations</h3>
+<p>The College’s health and safety guidelines are applied in all settings across campus and comply with county guidelines. We each share responsibility to keep our community healthy by adhering to the following expectations:</p>
+<ul>
+<li>Wear a face covering when inside, even when physical distancing can be maintained, and outside when physical distancing cannot be maintained.</li>
+<li>Stay at home if you have any of the following COVID symptoms, including cough, fever or chills, shortness of breath, difficulty breathing, muscle pain, headache, sore throat, new loss of taste or smell, diarrhea, nausea, vomiting, nasal congestion, or runny nose.</li>
+</ul>
+<p>If you experience symptoms, please take the following steps:<br />
+</p>
+<ul>
+<li>Complete the online notification form, available on the Health Information Portal. This will help us track possible COVID cases on campus to keep us all safe. Information on COVID symptoms can be found on the LC Health and Safety Expectations webpage and on the CDC webpage. The College is also encouraging use of a self-monitoring app. Information on the app - Campus Clear - can be found here.</li>
+<li>Contact your professor and attend your course virtually. If you live off campus, do not come to campus.<br />
+</li>
+<li>Follow the advice by health care providers and student life staff regarding quarantine. More information on that can be found here.</li>
+</ul>
+</div>
+<div id="academic-honesty" class="section level3">
+<h3>Academic Honesty</h3>
+<p>The Lewis &amp; Clark Code of Student Conduct (<a href="https://bit.ly/3sCGwVj" class="uri">https://bit.ly/3sCGwVj</a>) is in force at all times. Note that the consequences for plagiarism and cheating are extremely serious.</p>
+<p>Failure to meet the expectations for conduct will result in a reduction of your final grade.</p>
+</div>
+<div id="accommodation" class="section level3">
+<h3>Accommodation</h3>
+<p>If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation to the Student Support Services Office in Albany Quadrangle (you can use their online scheduling system to book a Zoom or phone appointment). After you have submitted documentation and filled out paperwork there for the current semester requesting accommodations, staff in that office will notify me of the accommodations for which you are eligible.</p>
+</div>
+<div id="course-withdrawals" class="section level3">
+<h3>Course Withdrawals</h3>
+<p>You may drop this course on Webadvisor by Friday, September 10 at 4pm and no W grade will appear on your transcript. From then until 4pm on Friday November 5, you can withdraw from the course by submitting a Course Withdrawal form to the Registrar’s Office. In this case, a W grade will appear on your transcript.</p>
+<p>I cannot authorize your withdrawal from the course after November 5. At that point, you will need to complete the course and take whatever grade you have earned. If you have questions or concerns about your performance in the course, please talk with me or write me anytime.</p>
+</div>
+</div>
+<div id="course-grading" class="section level2">
+<h2>Course Grading</h2>
+<p><strong>Midterm Exam (20%) and Final Exam (25%)</strong><br />
+</p>
+<p><strong>Attendance (5%)</strong>  If you are consistently late to class I will begin counting these events as absences and will notify you via email. If you must miss a class session, please notify me (email is fine). Attending consistently is the easiest thing you can do to improve your grade and improve your overall class experience, and not just because of this particular requirement. If you have many absences or must be gone for an extended period of time, I may ask you to document your excuse and I may suggest you to withdraw from the course.<br />
+</p>
+<p><strong>Participation and Pass/Fail Assignments (5%)</strong>  Throughout the course we will be doing several forms of in-class activity that require active participation: all-class discussion, cohort work, or answering polls or surveys of the class. Group work is very important and active participation during group work is necessary. Throughout the course of the semester there will be pass/fail assignments in which students will apply class themes and topics to a country case of their choosing that will count towards participation.  </p>
+<p><strong>Paper 1: Reading Analysis (3-4 page paper) (20%)</strong>  You will be given a scholarly reading in comparative politics. You will be required to identify the research question, findings and method, and discuss how the study fits into broader themes in the course. You will also evaluate whether (and why) you found the study compelling. Additional instructions for this paper will be distributed in class.<br />
+</p>
+<p><strong>Paper 2: Analytic Essay (6-8 pages) (25%)</strong>  This essay builds on the work that you will conduct in the country based pass/fail assignments. You will compare the regime type of your country case and another country in its region. You will identify a theory from class readings that could explain the similarity or differences in regime type and then will test this theory in the cases. Students will draw on course readings as well as outside research. Additional instructions for this paper will be distributed in class.<br />
+</p>
+<p>Students must complete all work. None of the assignments are optional.</p>
+<div id="late-assignments" class="section level3">
+<h3>Late Assignments</h3>
+<p>All assignments are expected to be turned in on time as designated by the prompt connected with the assignment. Assignments will all be submitted via google classroom using the “turn it in” button associated with the assignment.<br />
+</p>
+<p>An assignment will be considered “late” if submitted after the designated deadline. In the first 24 hours after the designated deadline has passed, the assignment will receive a penalty of one-third of a letter grade (e.g. from a B to B-). Every subsequent 24 hours an assignment is late, an additional one-third penalty will be assessed. For example, if a B paper is turned in three days late, the student would receive a C.</p>
+</div>
+<div id="paper-grading-rubric" class="section level3">
+<h3>Paper Grading Rubric</h3>
+<p>A: Outstanding work. The paper shows creativity, insight, and is analytically sound. The argument is well structured and overall the paper displays a sophisticated writing style (syntax, grammar).</p>
+<p>B: Good, above average work. The paper shows mastery of the main concepts and ideas, but does not necessarily synthesize them in an original form. The paper’s structure and syntax are generally fine, but there may be some writing issues present.</p>
+<p>C: Average work. Shows some mastery of the main concepts and ideas, but more generally does not. There are also structure and syntax problems present.</p>
+<p>D: Work reflects some effort or attempt to engage the task but is unsatisfactory as a final product, either because a key expectation of the task has been ignored or there is no evidence of mastery of the essential content.</p>
+<p>F: Does not meet minimum requirements.</p>
+<p>If this rubric seems unclear to you, please see me.</p>
+</div>
+<div id="important-due-dates" class="section level3">
+<h3>Important Due Dates</h3>
+<ul>
+<li>Pass/Fail assignments: Sep 21, Oct 26, Nov 23<br />
+</li>
+<li>Midterm: Oct 5<br />
+</li>
+<li>Paper 1 Reading Analysis: Oct 28<br />
+</li>
+<li>Paper 2 Analytic Essay: Dec 7<br />
+</li>
+<li>Final Exam: Monday Dec 13, 8:30 - 11:30 a.m.</li>
+</ul>
+</div>
+<div id="reading-guide" class="section level3">
+<h3>Reading Guide</h3>
+<p>Review this document for help with the individual readings (also noted above) <a href="https://bit.ly/3gaB6vC" class="uri">https://bit.ly/3gaB6vC</a></p>
+<p>The library supports the country assignments described in Google and provides a helpful set of resources at <a href="https://library.lclark.edu/c.php?g=908438" class="uri">https://library.lclark.edu/c.php?g=908438</a></p>
+</div>
+</div>
+<div id="course-schedule" class="section level2">
+<h2>Course Schedule</h2>
+<p>Online readings can be found in one of three places:</p>
+<ul>
+<li><p>Google Drive at <a href="https://bit.ly/3sp9FTy" class="uri">https://bit.ly/3sp9FTy</a>.</p></li>
+<li><p>The link shown below. For periodicals and news sites, you will usually link directly to the host site.</p></li>
+<li><p>The Ezrow and Frantz book. See the Course Materials section for details.</p></li>
+</ul>
+<p>The course calendar is organized into two sections:</p>
+<ul>
+<li><p>Section 1 Methodology: Concepts and Theories in Comparative Politics: August 31 - October 12</p></li>
+<li><p>Section 2 Major Topics in Comparative Politics October 14 - December 7</p></li>
+</ul>
+<div id="tuesday-august-31" class="section level3">
+<h3>Tuesday, August 31</h3>
+<p>Topics:</p>
+<ul>
+<li>What is Comparative Politics? What makes a good comparison?<br />
+</li>
+<li>Complete and turn in in-class surveys on google classroom.<br />
+</li>
+<li>Read the syllabus and come to class with any questions that you have.</li>
+</ul>
+</div>
+<div id="thursday-september-2" class="section level3">
+<h3>Thursday, September 2</h3>
+<p>Topics:</p>
+<ul>
+<li>What makes a good comparison? How objective are our comparisons?</li>
+</ul>
+<p>Readings:</p>
+<ul>
+<li><p>Art, David. 2011. “Introduction.” In Inside the Radical Right: The Development of Anti-Immigrant Parties in Western Europe. Cambridge: Cambridge University Press. Read pages 1-10. <a href="https://bit.ly/3xFRERO" class="uri">https://bit.ly/3xFRERO</a></p></li>
+<li><p>Samuels, David. 2013. “Doing Comparative Politics.” In Comparative Politics. New York: Pearson. Read pages 8-17 <a href="https://bit.ly/3shbB0n" class="uri">https://bit.ly/3shbB0n</a></p></li>
+<li><p>Wearing, David. 2010. “How Scientific is Political Science?” The Guardian. March 8, 2010. <a href="https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-ethical" class="uri">https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-ethical</a></p></li>
+</ul>
+</div>
+<div id="tuesday-september-7" class="section level3">
+<h3>Tuesday, September 7</h3>
+<p>Topics:</p>
+<ul>
+<li>Concepts and Measurement<br />
+</li>
+<li>Concept example: What is democracy?</li>
+</ul>
+<p>Readings:</p>
+<ul>
+<li><p>Przeworski, Adam, Michael Alvarez, Jose Cheibub, and Fernando Limongi. 2000. “Democracy and Dictatorship.” In <em>Democracy and Development: Political Institutions and Well-Being in the World, 1950-1990</em>. New York: Cambridge University Press, 2000. Read pages 14-18. <a href="https://bit.ly/3iE911d" class="uri">https://bit.ly/3iE911d</a></p></li>
+<li><p>Diamond, Larry. 1999. “Defining and Developing Democracy.” In <em>Developing Democracy: Toward Consolidation</em>. Baltimore: Johns Hopkins University Press. Read pages 7-19 <a href="https://bit.ly/3jKq6WN" class="uri">https://bit.ly/3jKq6WN</a></p></li>
+</ul>
+</div>
+<div id="thursday-september-9" class="section level3">
+<h3>Thursday, September 9</h3>
+<p>Topic:</p>
+<p>How do you measure democracy?</p>
+<p>Readings:</p>
+<ul>
+<li><p>Gunitsky, Seva. 2015. “How Do You Measure ‘Democracy’?’” The Washington Post: Monkey Cage. June 23, 2015. <a href="http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/06/23/how-do-you-measure-democracy/?wpisrc=nl_cage&amp;wpmm=1" class="uri">http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/06/23/how-do-you-measure-democracy/?wpisrc=nl_cage&amp;wpmm=1</a></p></li>
+<li><p>Read opening sections until “Methodology Questions” regarding Freedom House’s measure of democracy: <a href="https://freedomhouse.org/reports/freedom-world/freedom-world-research-methodology" class="uri">https://freedomhouse.org/reports/freedom-world/freedom-world-research-methodology</a></p></li>
+</ul>
+<p>Assignment:</p>
+<p>Select any country that interests you from this list and has a population of over 10 million people. Do not pick the U.S. <a href="http://worldpopulationreview.com/countries/" class="uri">http://worldpopulationreview.com/countries/</a></p>
+<ul>
+<li><p>Please make your selection carefully, as you will follow this country throughout the semester in a series of pass/fail assignments and in paper #2.</p></li>
+<li><p>Note Freedom House’s classification of your country and be ready to report this classification in class. <a href="https://freedomhouse.org/report/freedom-world" class="uri">https://freedomhouse.org/report/freedom-world</a>.</p></li>
+<li><p>Record your choice in a Google document using the Add/Create button.</p></li>
+</ul>
+</div>
+<div id="tuesday-september-14" class="section level3">
+<h3>Tuesday, September 14</h3>
+<p>Topics:</p>
+<ul>
+<li><p>Theory and Evidence in Comparative Politics. Note: we will examine the causes of democracy based on the three theoretical lenses of comparative politics. Throughout our examination we will analyze the case of Egypt after the Arab Spring.</p></li>
+<li><p>Democratization and the Arab Spring: The Case of Egypt</p></li>
+</ul>
+<p>Reading:</p>
+<p>Gelvin, James. 2012. The Arab Uprisings: What Everyone Needs to Know. Oxford University Press. Read pages from bottom of page 33-40 (How entrenched were autocracies ruling Tunisia and Egypt); 42 (Who led the Egyptian uprising in Cairo); 45-48; 49 (What changes did the uprising in Egypt bring about?).<br />
+<a href="http://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=886540" class="uri">http://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=886540</a></p>
+<p>Recommended: Explore: <a href="http://guides.library.cornell.edu/c.php?g=31688&amp;p=200748" class="uri">http://guides.library.cornell.edu/c.php?g=31688&amp;p=200748</a></p>
+</div>
+<div id="thursday-september-16" class="section level3">
+<h3>Thursday, September 16</h3>
+<p>Topic: What is a cultural approach? How may culture influence democratization?</p>
+<p>Readings:<br />
+Drogus, Carol Ann and Stephen Orvis. 2011. “What Explains Political Behavior? Culture and Ideology.” from Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage. Read pages 20-25. <a href="https://bit.ly/37yFxM3" class="uri">https://bit.ly/37yFxM3</a></p>
+<p>Putnam, Robert. 1993. Making Democracy Work: Civic Traditions in Modern Italy. Princeton: Princeton University Press. Read pages 87-99, 115. <a href="https://bit.ly/3fVGYZu" class="uri">https://bit.ly/3fVGYZu</a></p>
+<p>Walter Clemens. 2013. “Democracy as Chimera” The New York Times. September 20, 2013. <a href="http://www.nytimes.com/2013/09/11/opinion/global/democracy-as-chimera.html?src=rechp" class="uri">http://www.nytimes.com/2013/09/11/opinion/global/democracy-as-chimera.html?src=rechp</a></p>
+</div>
+<div id="tuesday-september-21" class="section level3">
+<h3>Tuesday, September 21</h3>
+<p>Topic:<br />
+What is a structural approach? How may structure influence democratization?</p>
+<p>Readings:<br />
+Drogus, Carol Ann and Stephen Orvis. 2011. “What Explains Political Behavior? Underlying Structures.” In Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage. Read pages 25-26. <a href="https://bit.ly/37yFxM3" class="uri">https://bit.ly/37yFxM3</a></p>
+<p>Ezrow and Frantz. 2011. “Factors Conducive to Democratization.” In <em>Dictators and Dictatorships: Understanding Authoritarian Regimes and their Leaders.</em> Read pages 28-32. A scanned copy of these pages are at <a href="https://drive.google.com/file/d/1S2pjGjdq7Fvvi9yuAJF7UvHQYIFMnVPH/view?usp=sharing" class="uri">https://drive.google.com/file/d/1S2pjGjdq7Fvvi9yuAJF7UvHQYIFMnVPH/view?usp=sharing</a></p>
+<p>Assignment: Pass/Fail Assignment #1 in Google Classroom is Due. <a href="https://classroom.google.com/c/Mzc5NTA4OTY4MTE0/a/Mzc5Njg1NTQyMjQ3/details" class="uri">https://classroom.google.com/c/Mzc5NTA4OTY4MTE0/a/Mzc5Njg1NTQyMjQ3/details</a></p>
+</div>
+<div id="thursday-september-23" class="section level3">
+<h3>Thursday, September 23</h3>
+<p>Topic: Canada Day.</p>
+<p>Canada has a federal election scheduled for September 20. We will take this opportunity to investigate the basic features of the Canadian political system and analyze the election that was just held, with the guidance of a guest speaker [TO BE NAMED].</p>
+<p>Readings:</p>
+<p>Review The following short entries: <a href="https://www.thecanadianencyclopedia.ca/en/article/distribution-of-powers" class="uri">https://www.thecanadianencyclopedia.ca/en/article/distribution-of-powers</a><br />
+<a href="https://www.thecanadianencyclopedia.ca/en/article/cabinet" class="uri">https://www.thecanadianencyclopedia.ca/en/article/cabinet</a><br />
+<a href="https://thecanadianencyclopedia.ca/en/collection/elections" class="uri">https://thecanadianencyclopedia.ca/en/collection/elections</a><br />
+<a href="https://www.thecanadianencyclopedia.ca/en/article/conservative-party" class="uri">https://www.thecanadianencyclopedia.ca/en/article/conservative-party</a><br />
+<a href="https://www.thecanadianencyclopedia.ca/en/article/liberal-party" class="uri">https://www.thecanadianencyclopedia.ca/en/article/liberal-party</a><br />
+<a href="https://www.thecanadianencyclopedia.ca/en/article/new-democratic-party" class="uri">https://www.thecanadianencyclopedia.ca/en/article/new-democratic-party</a></p>
+</div>
+<div id="tuesday-september-28" class="section level3">
+<h3>Tuesday, September 28</h3>
+<p>Topic:<br />
+How can structure influence democratization?</p>
+<p>Video:<br />
+BEFORE readings: Check out a short video as posted in our classroom stream about the structural approach before reading the scholarly example below. <a href="https://www.loom.com/share/808cad41d8cd47f3875df811a7a505f3" class="uri">https://www.loom.com/share/808cad41d8cd47f3875df811a7a505f3</a>. Password (case sensitve): pols102</p>
+<p>Readings:<br />
+Rueschemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephens. 1992. “Introduction: The Problem of Capitalist Development and Democracy.” In Capitalist Development and Democracy. Chicago: University of Chicago Press. Read pages 1-12 As you read, try to map out the argument into a causal equation. I will refer to this reading as RSS. <a href="https://bit.ly/2XpFPTL" class="uri">https://bit.ly/2XpFPTL</a></p>
+<p>Compare how this article differs from the op-ed by Clemens from February 3rd.</p>
+<p>Friedman, Thomas. 2013. “Close to the Edge.” The New York Times. August 20, 2013. <a href="http://www.nytimes.com/2013/08/21/opinion/friedman-close-to-the-edge.html?_r=0" class="uri">http://www.nytimes.com/2013/08/21/opinion/friedman-close-to-the-edge.html?_r=0</a></p>
+</div>
+<div id="thursday-september-30" class="section level3">
+<h3>Thursday, September 30</h3>
+<p>Topic:<br />
+What is a rational approach? How does rationality influence democratization?</p>
+<p>Readings: Drogus, Carol Ann and Stephen Orvis. 2011. “What Explains Political Behavior? Individual Motivation.” In Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage. Read pages 19-20, 28-29.</p>
+<p><a href="https://bit.ly/3lZyWT1" class="uri">https://bit.ly/3lZyWT1</a><br />
+<a href="https://bit.ly/37zhqwK" class="uri">https://bit.ly/37zhqwK</a> s</p>
+<p>Levi, Margaret. 1997. “A Model, A Method, And a Map: Rational Choice In Comparative Historical Analysis.” In Comparative Politics: Rationality, Culture, and Structure (Cambridge: Cambridge University Press, 1997), pp. 23-27. <a href="https://bit.ly/3AFm1Kq" class="uri">https://bit.ly/3AFm1Kq</a></p>
+<p>Przeworski, Adam. 1991. “Democracy.” In Democracy and the Market. Cambridge: Cambridge University Press. Read pages 10-19, First paragraph under heading “Democracy is Equilibrium” on page 26. <a href="https://bit.ly/3iDUlPN" class="uri">https://bit.ly/3iDUlPN</a></p>
+</div>
+<div id="tuesday-october-5" class="section level3">
+<h3>Tuesday, October 5</h3>
+<p>Midterm Exam</p>
+</div>
+<div id="thursday-october-7" class="section level3">
+<h3>Thursday, October 7</h3>
+<p>No Class. Fall Break.</p>
+</div>
+<div id="tuesday-october-12" class="section level3">
+<h3>Tuesday, October 12</h3>
+<p>Topic:</p>
+<p>How does rationality influence democratization?</p>
+<p>Reading:<br />
+Christian Welzel. 2009. “Elite Pacts, Mass Mobilization, and Democratization.” Oxford: Oxford University Press. Read pages 82-83. <a href="https://bit.ly/3CSSuie" class="uri">https://bit.ly/3CSSuie</a></p>
+<p>O’Donnell, Guillermo and Philippe Schmitter. 1986. “Pacts.” In Transitions from Authoritarian Rule: Tentative Conclusions about Uncertain Democracies. Baltimore: Johns Hopkins University Press. Read pages 37-39. <a href="https://bit.ly/3xCkt1z" class="uri">https://bit.ly/3xCkt1z</a></p>
+<p>Carrie Wickham. 2013. “Egypt’s Missed Opportunity.” The New York Times. July 27, 2013. <a href="http://www.nytimes.com/2013/07/28/opinion/sunday/egypts-missed-opportunity.html?pagewanted=all" class="uri">http://www.nytimes.com/2013/07/28/opinion/sunday/egypts-missed-opportunity.html?pagewanted=all</a></p>
+<p>Recommended: How New Governments Deal with Old Elites <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/20/how-new-governments-deal-with-old-elites-matters-more-than-you-might-expect/" class="uri">https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/20/how-new-governments-deal-with-old-elites-matters-more-than-you-might-expect/</a></p>
+<p>Recommended: The Arab Spring at Ten Years: What’s the Legacy of the Uprisings? <a href="https://www.cfr.org/article/arab-spring-ten-years-whats-legacy-uprisings" class="uri">https://www.cfr.org/article/arab-spring-ten-years-whats-legacy-uprisings</a></p>
+</div>
+<div id="thursday-october-14" class="section level3">
+<h3>Thursday, October 14</h3>
+<p>Topics:<br />
+States and Nations: The Building Blocks of Political Order<br />
+What is the state and what are its origins?</p>
+<p>Readings:<br />
+Drogus, Carol Ann and Stephen Orvis. 2019. “The State.” In Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage. Read pages 36-40.<br />
+<a href="https://bit.ly/2XdPVGY" class="uri">https://bit.ly/2XdPVGY</a></p>
+<p>Tilly, Charles. 1985. “War Making and State Making as Organized Crime.” In Bringing the State Back In, edited by Peter Evans, Dietrich Ruschemeyer, and Theda Skocpol, READ 169-175 (stop at Protection as Business), 181 (Begin What Do States Do?)-186.<br />
+<a href="https://bit.ly/3jPnA1l" class="uri">https://bit.ly/3jPnA1l</a></p>
+</div>
+<div id="tuesday-october-19" class="section level3">
+<h3>Tuesday, October 19</h3>
+<p>Topic:<br />
+What is the historical sequence of state building and nation building in different world regions?</p>
+<p>Readings:<br />
+Drogus, Carol Ann and Stephen Orvis. 2019. “The State.” In Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage. Read pages 40-48. <a href="https://bitly.com/3lXIEoZ" class="uri">https://bitly.com/3lXIEoZ</a></p>
+</div>
+<div id="thursday-october-21" class="section level3">
+<h3>Thursday, October 21</h3>
+<p>Topic:<br />
+Applying State Building Theories: The Case of Zimbabwe</p>
+<p>Readings:</p>
+<p>Review the slide deck in the pdf of “Defining the State?” at <a href="https://bit.ly/3yXv8Wj" class="uri">https://bit.ly/3yXv8Wj</a> Power, Samantha. 2003. “How to Kill a Country. Turning a Breadbasket Into a Basket Case in Ten Easy Steps – The Robert Mugabe Way.” Atlantic Monthly. <a href="https://bit.ly/3CXsAKf" class="uri">https://bit.ly/3CXsAKf</a></p>
+<p>Video:</p>
+<p>2006 Frontline Documentary: “Zimbabwe: Shadows and Lies.” <a href="https://www.youtube.com/watch?v=gltED2uOEek" class="uri">https://www.youtube.com/watch?v=gltED2uOEek</a></p>
+<p>Assignment:</p>
+<p>Please watch the film and read the Samantha Power article while answering the following questions (these are directly from the reading guide: Be ready to share your answers to these questions in-class.</p>
+<ol style="list-style-type: decimal">
+<li><p>To what extent does the state possess the important characteristic of external sovereignty? What specific examples or evidence did you identify to obtain your determination?</p></li>
+<li><p>To what extent does the state and its agents have a monopoly on violence? What specific examples or evidence did you identify to obtain your determination?</p></li>
+<li><p>To what extent does the state possess a strong bureaucracy? What specific examples or evidence did you identify to obtain your determination?</p></li>
+<li><p>To what extent does the state possess legitimacy? What specific examples or evidence did you identify to obtain your determination?</p></li>
+</ol>
+</div>
+<div id="tuesday-october-26" class="section level3">
+<h3>Tuesday, October 26</h3>
+<p>Topics:</p>
+<ul>
+<li><p>What is nationalism?</p></li>
+<li><p>How did the political identity of nationalism emerge?</p></li>
+<li><p>What makes nationalism “successful” or not?</p></li>
+</ul>
+<p>Readings:</p>
+<p>Review your notes about the film and article on Zimbabwe from October 14.</p>
+<p>Anderson, Benedict. 1983. “Introduction: Concepts and Definitions and Cultural Roots.” In Imagined Communities: Reflections on the Origins and Spread of Nationalism. Read pages. 5-7. <a href="https://library.lcproxy.org/login?url=https://hdl.handle.net/2027/heb.01609" class="uri">https://library.lcproxy.org/login?url=https://hdl.handle.net/2027/heb.01609</a></p>
+<p>Assignment:</p>
+<p>Pass-Fail Assignent #2 Due <a href="https://bit.ly/3xVuRla" class="uri">https://bit.ly/3xVuRla</a></p>
+</div>
+<div id="thursday-october-28" class="section level3">
+<h3>Thursday, October 28</h3>
+<p>Topics:</p>
+<ul>
+<li>What is nationalism?<br />
+</li>
+<li>What makes nationalism “successful” or not?</li>
+</ul>
+<p>Readings:</p>
+<p>Reread Anderson, Benedict. 1983. “Introduction: Concepts and Definitions and Cultural Roots.” In Imagined Communities: Reflections on the Origins and Spread of Nationalism. Read pages. 5-7. <a href="https://library.lcproxy.org/login?url=https://hdl.handle.net/2027/heb.01609" class="uri">https://library.lcproxy.org/login?url=https://hdl.handle.net/2027/heb.01609</a></p>
+<p>King, Charles. 2010. Extreme Politics: Nationalism, Violence, and the End of Eastern Europe. Oxford: Oxford University Press. Read “Theorizing Failure” pages 38-44 <a href="http://ebookcentral.proquest.com/lib/lewisclark/detail.action?docID=472310" class="uri">http://ebookcentral.proquest.com/lib/lewisclark/detail.action?docID=472310</a></p>
+<p>Assignment:<br />
+Paper #1 Due <a href="https://bit.ly/3xPHkqE" class="uri">https://bit.ly/3xPHkqE</a></p>
+</div>
+<div id="tuesday-november-2" class="section level3">
+<h3>Tuesday, November 2</h3>
+<p>Topic:</p>
+<p>What makes nationalism “successful” or not? The Case of Scotland</p>
+<p>Readings:</p>
+<p>Graeme Robertson. 2014. “Scotland Votes to Stay for Now.” The Washington Post: Monkey Cage. September 19, 2014.<br />
+<a href="https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A383094193/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=81679d20" class="uri">https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A383094193/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=81679d20</a></p>
+<p>The Economist. 2020. “How Coronavirus Strengthened Scottish Independence.” <a href="https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A631718787/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=99d359c2" class="uri">https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A631718787/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=99d359c2</a></p>
+<p>Recommended:<br />
+<a href="https://www.theatlantic.com/international/archive/2019/08/scottish-independence-and-brexit/595234/" class="uri">https://www.theatlantic.com/international/archive/2019/08/scottish-independence-and-brexit/595234/</a></p>
+</div>
+<div id="thursday-november-4" class="section level3">
+<h3>Thursday, November 4</h3>
+<p>Topic:<br />
+What is the distinction between a nation, ethnic group, or race?</p>
+<p>Reading:<br />
+Drogus, Carol Ann and Stephen Orvis. 2019. “Ethnicity” and “Race.” In Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage. Read pages 105-110. <a href="https://bit.ly/3AzsTc7" class="uri">https://bit.ly/3AzsTc7</a></p>
+</div>
+<div id="tuesday-november-9" class="section level3">
+<h3>Tuesday, November 9</h3>
+<p>Topic: Why and when does nationalism result in political violence? The Case of Yugoslavia</p>
+<p>Video: <em>We Are All Neighbors</em> available at Watzek library here: <a href="https://bit.ly/3iW8lVm" class="uri">https://bit.ly/3iW8lVm</a> This film is about 1 hour in length,</p>
+<p>Questions for reflection while watching the film:<br />
+* Compare and contrast the relations amongst neighbors at the beginning and end of the film.<br />
+* What are some of the factors that you observed in the film that may help to explain why neighborly relations changed?</p>
+<p>The main neighbors in the film: Nurija &amp; Nusreta (Muslim), Ramsija (Muslim), Slavka (Catholic), Andja (Catholic)</p>
+<p>Reading: Crepaz, Markus and Juerg Steiner. 2012. “War in the Former Yugoslavia.” In European Democracies. Pearson. Read pages. 249-257. <a href="https://bit.ly/3AFv7XA" class="uri">https://bit.ly/3AFv7XA</a></p>
+</div>
+<div id="thursday-november-11" class="section level3">
+<h3>Thursday, November 11</h3>
+<p>Topic: Why and when does nationalism result in political violence? The Case of Yugoslavia (continued)</p>
+<p>Reading:</p>
+<p>Oberschall, Anthony. 2000. “The Manipulation of Ethnicity: From Ethnic Cooperation to Violence and War in Yugoslavia.” Ethnic and Racial Studies 23, no. 6: 982-987. <a href="https://bit.ly/2W5OY2M" class="uri">https://bit.ly/2W5OY2M</a></p>
+<p>Note: The reading guide contains a glossary of key names in Oberschall 2000.. <a href="https://bit.ly/3gaB6vC" class="uri">https://bit.ly/3gaB6vC</a></p>
+</div>
+<div id="tuesday-november-16" class="section level3">
+<h3>Tuesday, November 16</h3>
+<p>Topics:<br />
+* Variations in Democratic Forms of Rule: The Institutions of Processing Political Demands</p>
+<ul>
+<li><p>What impact do electoral systems have on the way political demands are processed and power is organized?</p></li>
+<li><p>How do the United Kingdom and the Netherlands illustrate the variety of electoral systems and their effects?</p></li>
+</ul>
+<p>Readings:</p>
+<p>Taagepera, Rein and Matthew Shugart. 2008. “Why Study Electoral Systems?” In Contending Perspectives in Comparative Politics. Washington D.C., CQ Press. Read pages 165-168. <a href="https://bit.ly/2VMmgEi" class="uri">https://bit.ly/2VMmgEi</a></p>
+<p>Crepaz, Juerg and Markus Steiner. 2012. “The Netherlands.” In European Democracies Pearson. Read pages 70-73. <a href="https://bit.ly/3lXm0NC" class="uri">https://bit.ly/3lXm0NC</a></p>
+</div>
+<div id="thursday-november-18" class="section level3">
+<h3>Thursday, November 18</h3>
+<p>Topics:<br />
+* What are the main differences between plurality and PR electoral systems?<br />
+* How do the United Kingdom and the Netherlands illustrate the variety of electoral systems and their effects?</p>
+<p>Readings:</p>
+<p>Crepaz, Juerg and Markus Steiner. 2012. “The United Kingdom.” In European Democracies. Pearson. Read pages 65-70. <a href="https://bit.ly/3yVnE6h" class="uri">https://bit.ly/3yVnE6h</a></p>
+<p>Blumenau, Jack and Simon Hix. 2015. “What Would Britain Look Like Under Proportional Representation?” The Washington Post: Monkey Cage. May 6, 2015.<br />
+<a href="https://bit.ly/3gutc0n" class="uri">https://bit.ly/3gutc0n</a></p>
+</div>
+<div id="tuesday-november-23" class="section level3">
+<h3>Tuesday, November 23</h3>
+<p>Topic:<br />
+What are the strengths and weaknesses of different electoral systems?</p>
+<p>Readings:</p>
+<p>Pippa Norris. 1997. “Choosing Electoral Systems: Proportional, Majoritarian, and Mixed Systems.” International Political Science Review 18. No. 3. Read only pages 306-311. <a href="http://journals.sagepub.com/doi/pdf/10.1177/019251297018003005" class="uri">http://journals.sagepub.com/doi/pdf/10.1177/019251297018003005</a> or here at: <a href="https://bit.ly/3sdHU0f" class="uri">https://bit.ly/3sdHU0f</a></p>
+<p>Lijphart, Arend. 1998. “Reforming the House: Three Moderately Radical Proposals.” P.S.: Political Science and Politics, 31, no.1: 10-13.<br />
+<a href="https://library.lcproxy.org/login?url=https://www.jstor.org/stable/420424" class="uri">https://library.lcproxy.org/login?url=https://www.jstor.org/stable/420424</a></p>
+<p>Joel Selway. 2020. “Which kinds of democracies respond more effectively in a pandemic?” The Washington Post. May 19.<br />
+<a href="https://www.washingtonpost.com/politics/2020/05/19/which-kinds-democracies-respond-more-effectively-pandemic/" class="uri">https://www.washingtonpost.com/politics/2020/05/19/which-kinds-democracies-respond-more-effectively-pandemic/</a></p>
+<p>Lardeyret, Guy. 1991. “The Problem with PR.” Journal of Democracy, 2, no. 3:.30-35. <a href="https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225584" class="uri">https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225584</a></p>
+<p>Video: Watch this short video: <a href="https://globalnews.ca/video/rd/977052227883/?jwsource=cl" class="uri">https://globalnews.ca/video/rd/977052227883/?jwsource=cl</a></p>
+<p>Assignment: Pass-Fail Assignment #3 Due <a href="https://bit.ly/3k4AAAs" class="uri">https://bit.ly/3k4AAAs</a></p>
+</div>
+<div id="thursday-november-25" class="section level3">
+<h3>Thursday, November 25</h3>
+<p>No class. U.S. Thanksgiving holiday</p>
+</div>
+<div id="tuesday-november-30" class="section level3">
+<h3>Tuesday, November 30</h3>
+<p>Topic: Governing Institutions: What are the main differences between presidential and parliamentary systems? What are the strengths and weaknesses of different constitutional forms?</p>
+<p>Gladdish, Ken. 1993. “The Primacy of the Particular.” Journal of Democracy, 4, no.1: 53-65. <a href="https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225487" class="uri">https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225487</a></p>
+<p>Drogus, Carol Ann and Stephen Orvis. 2011. “Parliamentary Rule in Britain and India” and “Presidentialism in the United States and Brazil” In Introducing Comparative Politics: Concepts and Cases in Context. Los Angeles: Sage.<br />
+<a href="https://bit.ly/3yHhvdv" class="uri">https://bit.ly/3yHhvdv</a></p>
+<p><a href="https://bit.ly/3lZ27Wo" class="uri">https://bit.ly/3lZ27Wo</a></p>
+<p>Recommended: Recent Examples of No Confidence Votes</p>
+<p><a href="https://balkaninsight.com/2020/08/18/romanian-government-threatened-with-no-confidence-vote" class="uri">https://balkaninsight.com/2020/08/18/romanian-government-threatened-with-no-confidence-vote</a></p>
+<p><a href="https://www.bbc.com/news/uk-politics-48379730" class="uri">https://www.bbc.com/news/uk-politics-48379730</a></p>
+<p><a href="https://www.nytimes.com/2018/12/22/world/americas/guyana-government-falls.html" class="uri">https://www.nytimes.com/2018/12/22/world/americas/guyana-government-falls.html</a></p>
+</div>
+<div id="thursday-december-2" class="section level3">
+<h3>Thursday, December 2</h3>
+<p>Topics What are the main differences between presidential and parliamentary systems?<br />
+What are the strengths and weaknesses of different constitutional forms?</p>
+<p>Readings: Juan Linz. 1990. “The Perils of Presidentialism” Journal of Democracy 1, no. 1: 51-69. <a href="https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225694" class="uri">https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225694</a></p>
+<p>Recommended application of Linz to the US:” Is US Presidentialist Democracy Failing?” <a href="https://www.washingtonpost.com/opinions/is-the-us-presidentialist-democracy-failing/2016/02/10/37fa9ec8-d018-11e5-abc9-ea152f0b9561_story.html?utm_term=.a281aee08c11" class="uri">https://www.washingtonpost.com/opinions/is-the-us-presidentialist-democracy-failing/2016/02/10/37fa9ec8-d018-11e5-abc9-ea152f0b9561_story.html?utm_term=.a281aee08c11</a></p>
+<p>READ 449-455; SKIM FOR MAIN POINTS 456-469. Scott Mainwaring and Matthew Shugart. 1997. “Juan Linz, Presidentialism and Democracy: A Critical Appraisal” Comparative Politics. 29, no: 4: 449-469. <a href="https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014" class="uri">https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014</a></p>
+</div>
+<div id="tuesday-december-7" class="section level3">
+<h3>Tuesday, December 7</h3>
+<p>Topic:</p>
+<ul>
+<li>Varieties of Non-Democratic Rule</li>
+<li>How are non-democratic countries similar and different from one another?</li>
+<li>How do elections and parties work in non-democracies?</li>
+</ul>
+<p>Readings:</p>
+<p>Ezrow &amp; Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic). <a href="https://bit.ly/3lZ4xUY" class="uri">https://bit.ly/3lZ4xUY</a></p>
+<p>Ezrow &amp; Frantz, Read pages 67-77. <a href="https://bit.ly/3lY1lJf" class="uri">https://bit.ly/3lY1lJf</a></p>
+<p>The Russian 2018 presidential election: <a href="https://edition.cnn.com/2018/03/19/europe/russia-election-reaction-intl/index.html" class="uri">https://edition.cnn.com/2018/03/19/europe/russia-election-reaction-intl/index.html</a></p>
+<p>Assignment: Paper #2 Due <a href="https://bit.ly/3mbXxo0" class="uri">https://bit.ly/3mbXxo0</a></p>
+</div>
+<div id="monday-december-13-830---1130am" class="section level3">
+<h3>Monday, December 13 8:30 - 11:30am</h3>
+<p>Final Exam</p>
+</div>
+<div id="overflow" class="section level3">
+<h3>Overflow:</h3>
+<p>Democratic Institutions and Health Policy Case study: Ghana, Kenya, and Senegal Karen A. Grepin and Kim Yi Dionne. 2013. “Democratization and Universal Health Coverage: A Case Comparison of Ghana, Kenya, and Senegal.” Global Health Governance. VI, no. 2: 1-23 <a href="http://blogs.shu.edu/ghg/files/2014/02/GHGJ_62_5-31_GREPIN_AND_DIONNE.pdf" class="uri">http://blogs.shu.edu/ghg/files/2014/02/GHGJ_62_5-31_GREPIN_AND_DIONNE.pdf</a></p>
+<p>What causes non-democratic forms of rule? Ezrow &amp; Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50</p>
+<p>What explains economic variations in non-democracies? Review the group work question posted on our class notes. At the start of class we’ll go into breakout rooms to discuss. Ezrow &amp; Frantz, Ch. 7</p>
+<p>What explains the dynamics and longevity of different types of authoritarian regimes? Case study: military regimes. Ezrow &amp; Frantz, pages 171-174, Read the cases of Argentina (review), Brazil, and Turkey</p>
+<p>Max Fisher. 2019. “A Very Dangerous Game: In Latin America Embattled Leaders Lean on Generals” New York Times October 31, 2019. <a href="https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military.html" class="uri">https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military.html</a></p>
+<p>Recommended Algeria: <a href="https://www.washingtonpost.com/politics/2019/04/05/why-algerias-army-abandoned-bouteflika/?utm_term=.56be25cd5233&amp;wpisrc=nl_cage&amp;wpmm=1" class="uri">https://www.washingtonpost.com/politics/2019/04/05/why-algerias-army-abandoned-bouteflika/?utm_term=.56be25cd5233&amp;wpisrc=nl_cage&amp;wpmm=1</a></p>
+<p>Brazil: <a href="https://www.reuters.com/article/us-brazil-politics/brazil-military-takes-up-coup-commemoration-at-bolsonaros-behest-idUSKCN1RC09J?utm_source=applenews" class="uri">https://www.reuters.com/article/us-brazil-politics/brazil-military-takes-up-coup-commemoration-at-bolsonaros-behest-idUSKCN1RC09J?utm_source=applenews</a></p>
+<p>Sudan: <a href="https://www.washingtonpost.com/politics/2019/04/15/four-things-know-about-sudans-coups/?noredirect=on&amp;utm_term=.affcebfa0c1f" class="uri">https://www.washingtonpost.com/politics/2019/04/15/four-things-know-about-sudans-coups/?noredirect=on&amp;utm_term=.affcebfa0c1f</a></p>
+<p>What explains the dynamics and longevity of different types of authoritarian regimes? Case study: single party regimes Ezrow &amp; Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico Malaysia’s 2018 election that ended UMNO dominance: <a href="https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=e71736b3" class="uri">https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=e71736b3</a></p>
+<p>What explains the dynamics and longevity of different types of authoritarian regimes? Case study: personalist regimes Ezrow &amp; Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire. Zimbabwe case study: “It’s been one year since Zimbabwe toppled Mugabe. Why isn’t it a democracy yet?” <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/17/its-been-one-year-since-zimbabwe-toppled-mugabe-why-isnt-it-a-democracy-yet/?utm_term=.f0ff16c31520&amp;wpisrc=nl_cage&amp;wpmm=1" class="uri">https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/17/its-been-one-year-since-zimbabwe-toppled-mugabe-why-isnt-it-a-democracy-yet/?utm_term=.f0ff16c31520&amp;wpisrc=nl_cage&amp;wpmm=1</a></p>
+<p>Future trajectories of non-democratic forms of rule Case study: China Ezrow &amp; Frantz, 204-206 Erica Frantz, Joseph Wright, and Barbara Geddes, “Did Xi Jinping just become China’s Strongman?” <a href="https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A530900222/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=ad630011" class="uri">https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A530900222/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=ad630011</a></p>
+<p>Recommended: <a href="https://foreignpolicy.com/2018/10/15/chinas-great-leap-backward-xi-jinping/" class="uri">https://foreignpolicy.com/2018/10/15/chinas-great-leap-backward-xi-jinping/</a></p>
+<ol start="4" style="list-style-type: upper-alpha">
+<li>Contemporary Regime Challenges How stable are democracies? Way, Lucan Ahmad and Steven Levitsky. 2019. “How autocrats can rig the game and damage democracy.” The Washington Post. January 4. <a href="https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A568353459/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=aa06d8b0" class="uri">https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A568353459/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=aa06d8b0</a> Amanda Taub. 2016. “How Stable Are Democracies? ‘Warning Signs are Flashing Red’ The New York Times. November 29. <a href="https://www.nytimes.com/2016/11/29/world/americas/western-liberal-democracy.html" class="uri">https://www.nytimes.com/2016/11/29/world/americas/western-liberal-democracy.html</a> Yascha Mounk and Roberto Stefan. 2016. “Yes People Are Really Turning Away from Democracy” The Washington Post. December 8. <a href="https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A473340695/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=257926df" class="uri">https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A473340695/AONE?u=lacc_legal&amp;sid=AONE&amp;xid=257926df</a></li>
+</ol>
+<p>Challenges to democracy: COVID-19 Cristina Bodea and Christian House. 2020. “The longer-term coronavirus fallout could erode democracy. Here’s how that could play out.” The Washington Post. August 4. <a href="https://www.washingtonpost.com/politics/2020/08/04/longer-term-coronavirus-fallout-could-erode-democracy-heres-how-that-could-play-out/" class="uri">https://www.washingtonpost.com/politics/2020/08/04/longer-term-coronavirus-fallout-could-erode-democracy-heres-how-that-could-play-out/</a> Roberto Stefan Foa and Andrew James Klassen. 2020. “How democracies can survive dilemmas like the coronavirus.” The Washington Post. May 13. <a href="https://www.washingtonpost.com/politics/2020/05/13/how-democracies-can-survive-crises-like-coronavirus/" class="uri">https://www.washingtonpost.com/politics/2020/05/13/how-democracies-can-survive-crises-like-coronavirus/</a></p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
