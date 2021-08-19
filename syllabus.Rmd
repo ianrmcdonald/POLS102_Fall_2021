@@ -1,5 +1,6 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y %H:%S')`"
 output:
   html_document:
     toc: yes
@@ -19,10 +20,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 POLS102-02: Comparative Politics  
-CRN 26049  
-Tuesday and Thursday  1:50pm - 3:20pm  
-Miller Hall 102
-Lewis & Clark College  
+CRN 26049   
+Tuesday and Thursday  1:50pm - 3:20pm   
+Miller Hall 102  
+Lewis & Clark College   
 Fall 2021  
  
 Ian R. McDonald, Ph.D.  
@@ -171,7 +172,8 @@ The course calendar is organized into two sections:
 
 * Section 2 Major Topics in Comparative Politics October 14 - December 7  
 
-### Tuesday, August 31
+### Week 1
+#### Tuesday, August 31
 
 Topics:
 
@@ -179,7 +181,7 @@ Topics:
 * Complete and turn in in-class surveys on google classroom.  
 * Read the syllabus and come to class with any questions that you have.  
 
-### Thursday, September 2   
+#### Thursday, September 2   
 
 Topics:  
 
@@ -194,10 +196,10 @@ Readings:
 * Wearing, David. 2010. “How Scientific is Political Science?” The Guardian. March 8, 2010.
 https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-ethical  
 
-### Tuesday, September 7
+### Week 2
+#### Tuesday, September 7
 
-Topics: 
-
+Topics:  
 * Concepts and Measurement    
 * Concept example: What is democracy?   
 
@@ -207,10 +209,9 @@ Readings:
 
 * Diamond, Larry. 1999. “Defining and Developing Democracy.”  In *Developing Democracy: Toward Consolidation*. Baltimore:  Johns Hopkins University Press. Read pages 7-19  https://bit.ly/3jKq6WN    
 
-### Thursday, September 9
+#### Thursday, September 9
 
-Topic: 
-
+Topic:  
 How do you measure democracy?     
 
 Readings:   
@@ -229,7 +230,8 @@ Select any country that interests you from this list and has a population of ove
 
 * Record your choice in a Google document using the Add/Create button.      
 
-### Tuesday, September 14    
+### Week 3
+#### Tuesday, September 14    
 
 Topics:     
 
@@ -240,11 +242,13 @@ Topics:
 Reading:    
 
 Gelvin, James. 2012.  The Arab Uprisings: What Everyone Needs to Know. Oxford University Press. Read pages from bottom of page 33-40 (How entrenched were autocracies ruling Tunisia and Egypt); 42 (Who led the Egyptian uprising in Cairo); 45-48; 49 (What changes did the uprising in Egypt bring about?).  
-http://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=886540   
+http://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=886540
+
+Ghannouchi, Rached Ghannouchi.  2021. My Country Has Been a Dictatorship Before. We Can’t Go Back. *New York Times* July 30, 2021.  https://www.nytimes.com/2021/07/30/opinion/tunisia-protests-rached-ghannouchi.html?action=click&module=Opinion&pgtype=Homepage.  PDF available at https://bit.ly/3gekYcs
 
 Recommended: Explore: http://guides.library.cornell.edu/c.php?g=31688&p=200748       
 
-### Thursday, September 16  
+#### Thursday, September 16  
 
 Topic: 
 What is a cultural approach? How may culture influence democratization?  
@@ -256,7 +260,8 @@ Putnam, Robert. 1993.  Making Democracy Work:  Civic Traditions in Modern Italy.
 
 Walter Clemens. 2013. “Democracy as Chimera” The New York Times. September 20, 2013.  http://www.nytimes.com/2013/09/11/opinion/global/democracy-as-chimera.html?src=rechp  
 
-### Tuesday, September 21
+### Week 4
+#### Tuesday, September 21
   
 Topic:  
 What is a structural approach? How may structure influence democratization?  
@@ -269,7 +274,7 @@ Ezrow and Frantz. 2011. “Factors Conducive to Democratization.”  In *Dictato
 Assignment:
 Pass/Fail Assignment #1 in Google Classroom is Due.  https://classroom.google.com/c/Mzc5NTA4OTY4MTE0/a/Mzc5Njg1NTQyMjQ3/details
 
-### Thursday, September 23 
+#### Thursday, September 23 
 
 Topic:
 Canada Day.
@@ -286,8 +291,8 @@ https://www.thecanadianencyclopedia.ca/en/article/conservative-party
 https://www.thecanadianencyclopedia.ca/en/article/liberal-party  
 https://www.thecanadianencyclopedia.ca/en/article/new-democratic-party  
 
-
-### Tuesday, September 28  
+### Week 5
+#### Tuesday, September 28  
 
 Topic:  
 How can structure influence democratization?  
@@ -303,7 +308,7 @@ Compare how this article differs from the op-ed by Clemens from February 3rd.
 
 Friedman, Thomas. 2013. “Close to the Edge.” The New York Times. August 20, 2013.  http://www.nytimes.com/2013/08/21/opinion/friedman-close-to-the-edge.html?_r=0  
 
-### Thursday, September 30 
+#### Thursday, September 30 
 
 Topic:  
 What is a rational approach?  How does rationality influence democratization?  
@@ -318,15 +323,17 @@ Levi, Margaret. 1997. “A Model, A Method, And a Map:  Rational Choice In Compa
 
 Przeworski, Adam. 1991. “Democracy.” In Democracy and the Market. Cambridge:  Cambridge University Press. Read pages 10-19, First paragraph under heading “Democracy is Equilibrium” on page 26. https://bit.ly/3iDUlPN  
 
-### Tuesday, October 5  
+### Week 6
+#### Tuesday, October 5  
 
 Midterm Exam
 
-### Thursday, October 7  
+#### Thursday, October 7  
 
 No Class.  Fall Break.  
 
-### Tuesday, October 12  
+### Week 7
+#### Tuesday, October 12  
 
 Topic:  
 
@@ -344,7 +351,7 @@ Recommended: How New Governments Deal with Old Elites https://www.washingtonpost
 Recommended: The Arab Spring at Ten Years: What’s the Legacy of the Uprisings?
 https://www.cfr.org/article/arab-spring-ten-years-whats-legacy-uprisings  
 
-### Thursday, October 14
+#### Thursday, October 14
 
 Topics:  
 States and Nations:  The Building Blocks of Political Order  
@@ -357,7 +364,8 @@ https://bit.ly/2XdPVGY
 Tilly, Charles. 1985. “War Making and State Making as Organized Crime.” In Bringing the State Back In, edited by Peter Evans, Dietrich Ruschemeyer, and Theda Skocpol, READ 169-175 (stop at Protection as Business), 181 (Begin What Do States Do?)-186.  
 https://bit.ly/3jPnA1l  
 
-### Tuesday, October 19  
+### Week 8
+#### Tuesday, October 19  
 
 Topic:  
 What is the historical sequence of state building and nation building in different world regions?   
@@ -366,7 +374,7 @@ Readings:
 Drogus, Carol Ann and Stephen Orvis. 2019.  “The State.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles:  Sage. Read pages 40-48. 
 https://bitly.com/3lXIEoZ   
 
-### Thursday, October 21  
+#### Thursday, October 21  
 
 Topic:  
 Applying State Building Theories: The Case of Zimbabwe  
@@ -393,8 +401,8 @@ Please watch the film and read the Samantha Power article while answering the fo
 
 4. To what extent does the state possess legitimacy? What specific examples or evidence did you identify to obtain your determination?   
 
-
-### Tuesday, October 26
+### Week 9
+#### Tuesday, October 26
 
 Topics:  
 
@@ -415,7 +423,7 @@ Assignment:
 
 Pass-Fail Assignent #2 Due  https://bit.ly/3xVuRla
 
-### Thursday, October 28
+#### Thursday, October 28
 
 Topics:  
 
@@ -433,7 +441,8 @@ http://ebookcentral.proquest.com/lib/lewisclark/detail.action?docID=472310
 Assignment:  
 Paper #1 Due https://bit.ly/3xPHkqE  
 
-### Tuesday, November 2  
+### Week 10
+#### Tuesday, November 2  
 
 Topic:  
 
@@ -447,9 +456,9 @@ https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A383094193/
 The Economist. 2020. “How Coronavirus Strengthened Scottish Independence.”   https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A631718787/AONE?u=lacc_legal&sid=AONE&xid=99d359c2  
 
 Recommended:  
-https://www.theatlantic.com/international/archive/2019/08/scottish-independence-and-brexit/595234/  
+Ross, Elliot. 2019.  Is Brexit Worth Scotland's Independence? *The Atlantic Monthly* July 31, 2019  https://bit.ly/3ssglAi
 
-### Thursday, November 4
+#### Thursday, November 4  
 
 Topic:  
 What is the distinction between a nation, ethnic group, or race?  
@@ -458,7 +467,8 @@ Reading:
 Drogus, Carol Ann and Stephen Orvis. 2019.  “Ethnicity” and “Race.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles:  Sage. Read pages 105-110.
 https://bit.ly/3AzsTc7    
 
-### Tuesday, November 9  
+### Week 11
+#### Tuesday, November 9  
 
 Topic:
 Why and when does nationalism result in political violence? The Case of Yugoslavia  
@@ -476,7 +486,7 @@ The main neighbors in the film: Nurija & Nusreta (Muslim), Ramsija (Muslim), Sla
 Reading:
 Crepaz, Markus and Juerg Steiner. 2012.  “War in the Former Yugoslavia.” In European Democracies. Pearson. Read pages. 249-257. https://bit.ly/3AFv7XA
 
-### Thursday, November 11
+#### Thursday, November 11
 
 Topic:
 Why and when does nationalism result in political violence?  The Case of Yugoslavia (continued)
@@ -488,7 +498,8 @@ https://bit.ly/2W5OY2M
 
 Note: The reading guide contains a glossary of key names in Oberschall 2000.. https://bit.ly/3gaB6vC  
 
-### Tuesday, November 16
+### Week 12
+#### Tuesday, November 16
 
 Topics:  
 * Variations in Democratic Forms of Rule:  The Institutions of Processing Political Demands  
@@ -503,7 +514,7 @@ Taagepera, Rein and Matthew Shugart. 2008.  “Why Study Electoral Systems?” I
 
 Crepaz, Juerg and Markus Steiner. 2012. “The Netherlands.” In European Democracies Pearson.  Read pages 70-73. https://bit.ly/3lXm0NC  
 
-### Thursday, November 18
+#### Thursday, November 18
 
 Topics:  
 * What are the main differences between plurality and PR electoral systems?    
@@ -516,7 +527,8 @@ Crepaz, Juerg and Markus Steiner. 2012. “The United Kingdom.” In European De
 Blumenau, Jack and Simon Hix. 2015. “What Would Britain Look Like Under Proportional Representation?” The Washington Post:  Monkey Cage. May 6, 2015.   
 https://bit.ly/3gutc0n
 
-### Tuesday, November 23
+### Week 13
+#### Tuesday, November 23
 
 Topic:  
 What are the strengths and weaknesses of different electoral systems?    
@@ -540,10 +552,11 @@ Watch this short video:  https://globalnews.ca/video/rd/977052227883/?jwsource=c
 Assignment:
 Pass-Fail Assignment #3 Due https://bit.ly/3k4AAAs
 
-### Thursday, November 25
+#### Thursday, November 25
 No class.  U.S. Thanksgiving holiday
 
-### Tuesday, November 30
+### Week 14
+#### Tuesday, November 30
 
 Topic:
 Governing Institutions: What are the main differences between presidential and parliamentary systems?  What are the strengths and weaknesses of different constitutional forms?
@@ -564,7 +577,7 @@ https://www.bbc.com/news/uk-politics-48379730
 
 https://www.nytimes.com/2018/12/22/world/americas/guyana-government-falls.html
 
-### Thursday, December 2
+#### Thursday, December 2
 
 Topics
 What are the main differences between presidential and parliamentary systems?  
@@ -580,8 +593,8 @@ https://www.washingtonpost.com/opinions/is-the-us-presidentialist-democracy-fail
 READ 449-455; SKIM FOR MAIN POINTS 456-469. Scott Mainwaring and Matthew Shugart. 1997. “Juan Linz, Presidentialism and Democracy:  A Critical Appraisal” Comparative Politics. 29, no: 4: 449-469. 
 https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014
 
-
-### Tuesday, December 7
+### Week 15
+#### Tuesday, December 7
 
 Topic:
 
@@ -602,8 +615,8 @@ The Russian 2018 presidential election: https://edition.cnn.com/2018/03/19/europ
 Assignment:
 Paper #2 Due https://bit.ly/3mbXxo0
 
-
-### Monday, December 13 8:30 - 11:30am
+### Week 16
+#### Monday, December 13 8:30 - 11:30am
 Final Exam
 
 
