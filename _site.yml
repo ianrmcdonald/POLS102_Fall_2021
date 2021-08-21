@@ -1,6 +1,6 @@
-name: "my-website"
+name: "polsci_102"
 navbar:
-  title: "My Website"
+  title: "POLSCI 102: Comparative Politics"
   left:
     - text: "Home"
       href: index.html
