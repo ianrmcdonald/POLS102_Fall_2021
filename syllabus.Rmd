@@ -2,6 +2,8 @@
 title: "POLS102 Section 02 Fall 2021 Syllabus"
 date: "Last compiled on `r format(Sys.time(), '%d %B, %Y %H:%S')`"
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -9,8 +11,6 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
-  pdf_document:
-    toc: no
 ---
 
 
@@ -31,14 +31,14 @@ ianmcdonald@lclark.edu
 Office:  Miller Hall 434  
 Phone: +1.503.768.7456  
 
-### Office Hours 
+## Office Hours 
 Tuesdays 9:30-11 am & Fridays 10-11am or additional times by schedule. I can meet with you in person or video conference.
 
-### Google Classroom
+## Google Classroom
 
-Our class portal will be stored in Google Classroom.  From there, you should be able to find links the online version of the syllabus, which will have links to all the readings.  In addition, Google Classroom will contain links to upload class assignments, announcements, and additional links to assigned readings.
+Our class portal will be stored in Google Classroom.  From there, you should be able to find links to the online version of the syllabus, which will have links to all the readings.  In addition, Google Classroom will contain links for you to upload class assignments, read announcements, and find copies of  assigned readings.
 
-On the first day of class, you should respond to the Google Classroom invite link at https://classroom.google.com/c/Mzc5NTA4OTY4MTE0?cjc=4ba3mmx.  The Class Code is 4ba3mmx.  This link should take you directly to the class once you have signed up for it: https://classroom.google.com/c/Mzc5NTA4OTY4MTE0
+On the first day of class, you should respond to the Google Classroom invitation link at https://classroom.google.com/c/Mzc5NTA4OTY4MTE0?cjc=4ba3mmx.  The Class Code is 4ba3mmx.  This link should take you directly to the class once you have signed up for it: https://classroom.google.com/c/Mzc5NTA4OTY4MTE0
 
 My goal is to make this course entirely accessible using online content.  Except for one assigned paperback book, expect to find everything you need from the Google Classroom portal.
 
@@ -49,20 +49,22 @@ This syllabus is an online web page, though a PDF version is available if desire
 ### Course Description
 What are the prospects for democracy in Egypt, Zimbabwe, or China?  Why do countries like Afghanistan, Somalia, and Syria suffer from political instability and violence?  Comparative politics seeks to answer these and similar questions by understanding and comparing political behavior and institutions in countries throughout the world. 
  
-The goal of this course is to introduce students to the key theoretical frameworks and analytical methods in the field of comparative politics.  We will start by asking the question "What are that problems that any effective political system must resolve"?  We will then review the three major theoretical lenses in comparative politics by analyzing the extended example of democracy and its causes.  While continually drawing on our methodological toolkit throughout the course, we will then analyze a variety of topics such as state-building and ethnic conflict, to name only a few.  
+The goal of this course is to introduce students to the key theoretical frameworks and analytical methods in the field of comparative politics.  We will start by asking the question "What are that problems that any effective political system must resolve"?  We will then review the three major theoretical lenses in comparative politics by analyzing the extended example of democracy and its causes.  While continually drawing on our methodological toolkit throughout the course, we will then analyze a variety of topics such as state-building and ethnic conflict.
 
 Each week we will read a diverse set of articles involving research from different areas of the world.  Students will therefore have the chance to expand and hone their comparative as well as analytic thinking skills.  Students can expect to read predominantly scholarly articles, but will also be exposed to various materials from the news media or films.  Overall, this course should prepare students to engage in comparative politics in a variety of settings, be they academic or otherwise.
  
 ### Learning Goals
 
 Learning is an interactive process that requires active engagement by the professor and students. 
-After taking this class students should:
+After taking this class students should be able to:
 
-* Gain basic fluency in the main concepts and terms of comparative politics (e.g. the state, regime, and nation-state).  Understand some of the main ways that societies vary (in their institutions, resources, and culture), and how this variation influences important political, social, or economic outcomes (e.g. form of democratic governance, ethnic conflict, or economic growth).  
+* Demonstrate basic fluency in the main concepts and terms of comparative politics (e.g., the state, regime, and nation-state).  
 
-* Be able to engage meaningfully with and demonstrate knowledge about a region or regions of the world beyond the United States (through reading, writing, conversation, presentation and/or first-hand experiences). Topics of study include historical experience, cultural traditions, past and current social and economic realities, or transnational issues.  
+* Explain the main ways that societies vary (in their institutions, resources, and culture), and how this variation influences important political, social, or economic outcomes (e.g., form of democratic governance, ethnic conflict, or economic growth).  
 
-* Learn how to use empirically based criteria, rather than just opinion, to assess the merits of a theory or argument.  For example, students will learn how to identify the structure of a scholarly argument ("why might X1 *cause*  Y, but X2 would not not cause Y"), and the logic of the argument ("why does X lead to Y?").  Students will learn how to communicate this assessment in both oral and written form.  
+* Describe the political context of a region or regions of the world beyond the United States (through reading, writing, conversation, presentation and/or first-hand experiences). Topics of study include historical experience, cultural traditions, past and current social and economic realities, or transnational issues.  
+
+* Apply empirically based criteria, rather than just opinion, to assess the merits of a theory or argument.  For example, students will learn how to identify the structure of a scholarly argument ("why might X1 *cause*  Y, but X2 would not not cause Y"), and the logic of the argument ("why does X lead to Y?").  Students will learn how to communicate this assessment in both oral and written form.  
 
 * Improve, with practice, the ability to craft an argument in written form that is appropriately structured and well written stylistically.  
 
@@ -71,15 +73,12 @@ After taking this class students should:
 You will need access to a copy of one book:      
 **Ezrow, Natasha M. and Erica Frantz.  2011.  *Dictators and Dictatorships: Understanding Authoritarian Regimes and Their Leaders.*  Bloomsbury. ISBN 978-1-4411-7896-6.** Copies of the book are available for sale in the bookstore and the usual places online.  I will also place a copy on three hour reserve in the library early in the semester.  
 
-All other assigned readings are all online and accessible in the Google Classroom site at https://bit.ly/3sp9FTy or directly at the source website.  See the links in the syllabus class schedule for details.
+All other assigned readings are online and accessible in the Google Classroom site at https://bit.ly/3sp9FTy or directly at the source website.  Links are also available in the online version of this syllabus.  See the links in the syllabus class schedule for details.
 
-### Google Classroom
-The Google Classroom invitation link is https://bit.ly/3srZbDa.
-
-##  Course Expectations
+##  Course Expectations  
 ### Reading  
 
-There is generally more than one reading assigned for each day. This is because this class will introduce you to the many voices that make-up the conversation about comparative politics. Additionally, this class will ask you to practice your abilities moving from theory to specific case studies or examples.  These readings are short and you should plan to read all of them carefully in their entirety.
+There is generally more than one reading assigned for each day. The class will introduce you to the many voices that form the conversation about comparative politics. Additionally, this class will ask you to practice your abilities moving from theory to specific case studies or examples.  These readings are short and you should plan to read all of them carefully in their entirety.
  
 Students should be prepared to answer the following three questions each class period:  
 
@@ -87,10 +86,10 @@ Students should be prepared to answer the following three questions each class p
 2. What case(s) are used to answer the main question?  
 3. In one or two sentences, what is the main answer to the question?
 
-You will find to Prof. Gilbert's reading guides for individual readings here:\
+You will find a reading guides for individual readings here:  
 https://bit.ly/3gaB6vC  
 
-You will find Prof. Gilbert's general guide How to Read Works in Comparative Politics:\
+You will find a more general guide How to Read Works in comparative politics:  
 https://bit.ly/3gaEois
 
 ### Health and Safety Expectations
@@ -114,22 +113,24 @@ Failure to meet the expectations for conduct will result in a reduction of your 
 If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation to the Student Support Services Office in Albany Quadrangle (you can use their online scheduling system to book a Zoom or phone appointment). After you have submitted documentation and filled out paperwork there for the current semester requesting accommodations, staff in that office will notify me of the accommodations for which you are eligible. 
 
 ### Course Withdrawals
-You may drop this course on Webadvisor by Friday, September 10 at 4pm and no W grade will appear on your transcript. From then until 4pm on Friday November 5, you can withdraw from the course by submitting a Course Withdrawal form to the Registrar’s Office. In this case, a W grade will appear on your transcript.  
+You may drop this course on WebAdvisor by Friday, September 10 at 4pm and no W grade will appear on your transcript. From then until 4pm on Friday November 5, you can withdraw from the course by submitting a Course Withdrawal form to the Registrar’s Office. In this case, a W grade will appear on your transcript.  
 
 I cannot authorize your withdrawal from the course after November 5. At that point, you will need to complete the course and take whatever grade you have earned. If you have questions or concerns about your performance in the course, please talk with me or write me anytime.
 
 ## Course Grading
 
-**Midterm Exam (20%) and Final Exam (25%)**\
+**Midterm Exam (20%) and Final Exam (25%)**  
 
-**Attendance (5%)**\  
-If you are consistently late to class I will begin counting these events as absences and will notify you via email. If you must miss a class session, please notify me (email is fine). Attending consistently is the easiest thing you can do to improve your grade and improve your overall class experience, and not just because of this particular requirement. If you have many absences or must be gone for an extended period of time, I may ask you to document your excuse and I may suggest you to withdraw from the course.\
+**Attendance (5%)**    
+Attendance will be taken at every session.  If you must miss a session, please notify me in advance (email is fine).  
 
-**Participation and Pass/Fail Assignments (5%)**\ 
-Throughout the course we will be doing several forms of in-class activity that require active participation: all-class discussion, cohort work, or answering polls or surveys of the class.  Group work is very important and active participation during group work is necessary. Throughout the course of the semester there will be pass/fail assignments in which students will apply class themes and topics to a country case of their choosing that will count towards participation. \ 
+Attending consistently is the easiest thing you can do to improve your grade and improve your overall class experience, and not just because of this particular attendance requirement. If you have many absences or must be gone for an extended period of time, I may ask you to document your excuse and I may suggest you to withdraw from the course.  
 
-**Paper 1: Reading Analysis (3-4 page paper) (20%)**\  
-You will be given a scholarly reading in comparative politics. You will be required to identify the research question, findings and method, and discuss how the study fits into broader themes in the course.  You will also evaluate whether (and why) you found the study compelling.  Additional instructions for this paper will be distributed in class.\
+**Participation and Pass/Fail Assignments (5%)**   
+Throughout the course we will be doing several forms of in-class activity that require active participation: all-class discussion, cohort work, or answering polls or surveys of the class.  Group work is very important and active participation during group work is necessary. Throughout the course of the semester there will be pass/fail assignments in which students will apply class themes and topics to a country case of their choosing that will count towards participation.    
+
+**Paper 1: Reading Analysis (3-4 page paper) (20%)**   
+You will be given a academic reading in comparative politics. You will be required to identify the research question, findings and method, and discuss how the study fits into broader themes in the course.  You will also evaluate whether (and why) you found the study compelling.  Additional instructions for this paper will be distributed in class.\
 
 **Paper 2: Analytic Essay (6-8 pages) (25%)**\  
 This essay builds on the work that you will conduct in the country based pass/fail assignments.  You will compare the regime type of your country case and another country in its region.  You will identify a theory from class readings that could explain the similarity or differences in regime type and then will test this theory in the cases.  Students will draw on course readings as well as outside research. Additional instructions for this paper will be distributed in class.\
@@ -189,15 +190,18 @@ The course calendar is organized into two sections:
 
 **Topics:**
 
+* Course introduction, syllabus review, and intro to Google Classroom
+* What do mean when we talk about political systems? What are they expected to do?
 * What is Comparative Politics?  What makes a good comparison?  
 * Complete and turn in in-class surveys on google classroom.  
-* Read the syllabus and come to class with any questions that you have.  
+
+Read the syllabus and come on Thursday with any questions that you have.  
 
 #### Thursday, September 2   
 
 **Topics:**  
 
-* What makes a good comparison?  How objective are our comparisons?    
+* What makes a good comparison between political systems?  How objective are our comparisons?    
 
 **Readings:**  
 
