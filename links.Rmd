@@ -1,0 +1,35 @@
+---
+title: "POLS102-02 Fall 2021 Links"
+date: '2021-08-31'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Ian McDonald  
+email: ianmcdonald@lclark.edu  
+phone: +1.503.768.7456  
+
+## Google Classroom:
+
+Invite Link:  
+
+**https://bit.ly/3srZbDa**  
+
+## Google Class Code:
+
+**4ba3mmx**
+
+## Syllabus:
+
+**https://bit.ly/3sNRiYD**  
+
+## Syllabus (PDF Version):  
+
+**https://bit.ly/3juEjrO**
+
+
+

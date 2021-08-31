@@ -1,6 +1,9 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y %H:%S')`"
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -8,8 +11,6 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
-  pdf_document:
-    toc: no
 ---
 
 
@@ -306,8 +307,6 @@ Expect a brief overview of Canadian politics of the upcoming Canadian federal el
 
 * Ezrow and Frantz. 2011. “Factors Conducive to Democratization.”  In *Dictators and Dictatorships: Understanding Authoritarian Regimes and their Leaders.* Read pages 28-32.  A scanned copy of these pages are at https://bit.ly/3gvhwdE
 
-* Rueschemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephens. 1992.  “Introduction: The Problem of Capitalist Development and Democracy.” In Capitalist Development and Democracy. Chicago:  University of Chicago Press. Read pages 1-12  As you read, try to map out the argument into a causal statement.  I will refer to this reading as RSS.  https://bit.ly/2XpFPTL  
-
 **Assignment:**  
 Pass/Fail Assignment #1 in Google Classroom is Due.  https://bit.ly/3mJ6VzR
 
@@ -316,8 +315,6 @@ Pass/Fail Assignment #1 in Google Classroom is Due.  https://bit.ly/3mJ6VzR
 **Topics:**  
 
 * Presidential vs. Parliamentary democracies: the example of Canada.
-
-Guest speaker:  Prof. Richard Johnston, Professor Emeritus of Political Science, University of British Columbia https://politics.ubc.ca/profile/richard-johnston/
 
 Today we will examine the September 20 Canadian federal election, and a preview about parliamentary electoral systems. Canada's political system demonstrates federalism and the British parliamentary model. 
 
@@ -596,11 +593,12 @@ https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014
 
 * Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic). https://bit.ly/3lZ4xUY
 
-* Ezrow & Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50  
-
-* Ezrow & Frantz, Read pages 67-77. https://bit.ly/3lY1lJf  
+* Ezrow & Frantz, Read pages 67-77. https://bit.ly/3lY1lJf
 
 * The Russian 2018 presidential election: https://edition.cnn.com/2018/03/19/europe/russia-election-reaction-intl/index.html
+
+* Ezrow & Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico
+Malaysia’s 2018 election that ended UMNO dominance: https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&sid=AONE&xid=e71736b3
 
 **Assignment:**
 Pass-Fail Assignment #3 Due https://bit.ly/3k4AAAs
@@ -622,9 +620,7 @@ No class.  U.S. Thanksgiving holiday
 * Ezrow & Frantz, Ch. 7
 * Case study: military regimes.  Ezrow & Frantz, pages 171-174. Read the cases of Argentina (review), Brazil, and Turkey  
 
-* Ezrow & Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico.  
-
-* Malaysia’s 2018 election that ended UMNO dominance: https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&sid=AONE&xid=e71736b3
+* Ezrow & Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50
 
 * Fisher, Max. 2019. “A Very Dangerous Game: In Latin America Embattled Leaders Lean on Generals” *New York Times* October 31, 2019. 
 https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military.html
@@ -634,6 +630,7 @@ https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military
 **Topics:**
 
 * What explains the dynamics and longevity of different types of authoritarian regimes?
+* eCase study: China
 
 **Readings:**  
 * Ezrow & Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire.  
@@ -648,24 +645,21 @@ https://bit.ly/3B7IrE7
 **Topic:**
 
 What explains the dynamics and longevity of different types of authoritarian regimes?
+Case study: personalist regimes
 
 **Readings:**  
 
-*  Algeria:
+Algeria:
 https://www.washingtonpost.com/politics/2019/04/05/why-algerias-army-abandoned-bouteflika/?utm_term=.56be25cd5233&wpisrc=nl_cage&wpmm=1
 
-*  Brazil:
+Brazil:
 https://www.reuters.com/article/us-brazil-politics/brazil-military-takes-up-coup-commemoration-at-bolsonaros-behest-idUSKCN1RC09J?utm_source=applenews
 
-*  Sudan:
+Sudan:
 https://www.washingtonpost.com/politics/2019/04/15/four-things-know-about-sudans-coups/?noredirect=on&utm_term=.affcebfa0c1f
 
-*  Zimbabwe case study: “It’s been one year since Zimbabwe toppled Mugabe. Why isn’t it a democracy yet?”
+Zimbabwe case study: “It’s been one year since Zimbabwe toppled Mugabe. Why isn’t it a democracy yet?”
 https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/17/its-been-one-year-since-zimbabwe-toppled-mugabe-why-isnt-it-a-democracy-yet/?utm_term=.f0ff16c31520&wpisrc=nl_cage&wpmm=1
-
-*  Follow up on Russia:  https://www.washingtonpost.com/politics/2021/08/25/russias-latest-crackdown-dissent-is-much-more-sweeping-than-ever-before/
-
-*  Brazil: https://www.washingtonpost.com/world/2021/07/23/brazil-bolsonaro/
 
 **Assignment:**
 Paper #2 Due https://bit.ly/3mbXxo0
@@ -673,3 +667,43 @@ Paper #2 Due https://bit.ly/3mbXxo0
 ### Week 16
 #### Monday, December 13 8:30 - 11:30am
 Final Exam
+
+
+### Overflow:
+
+
+
+
+
+
+**Topic:**  
+
+
+Recommended:
+https://foreignpolicy.com/2018/10/15/chinas-great-leap-backward-xi-jinping/
+
+Contemporary Regime Challenges
+How stable are democracies?
+Way, Lucan Ahmad and Steven Levitsky. 2019. "How autocrats can rig the game and damage democracy." The Washington Post. January 4. 
+https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A568353459/AONE?u=lacc_legal&sid=AONE&xid=aa06d8b0
+Amanda Taub. 2016.  “How Stable Are Democracies? ‘Warning Signs are Flashing Red’ The New York Times. November 29. https://www.nytimes.com/2016/11/29/world/americas/western-liberal-democracy.html
+Yascha Mounk and Roberto Stefan. 2016. “Yes People Are Really Turning Away from Democracy” The Washington Post. December 8. 
+https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A473340695/AONE?u=lacc_legal&sid=AONE&xid=257926df
+
+Challenges to democracy: COVID-19
+Cristina Bodea and Christian House. 2020. “The longer-term coronavirus fallout could erode democracy.  Here’s how that could play out.” The Washington Post. August 4. https://www.washingtonpost.com/politics/2020/08/04/longer-term-coronavirus-fallout-could-erode-democracy-heres-how-that-could-play-out/
+Roberto Stefan Foa and Andrew James Klassen. 2020. “How democracies can survive dilemmas like the coronavirus.” The Washington Post. May 13.  https://www.washingtonpost.com/politics/2020/05/13/how-democracies-can-survive-crises-like-coronavirus/
+
+For structuralism
+* Rueschemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephens. 1992.  “Introduction: The Problem of Capitalist Development and Democracy.” In Capitalist Development and Democracy. Chicago:  University of Chicago Press. Read pages 1-12  As you read, try to map out the argument into a causal statement.  I will refer to this reading as RSS.  https://bit.ly/2XpFPTL  
+
+Compare how this article differs from the op-ed by Clemens from February 3rd.  
+
+* Friedman, Thomas. 2013. “Close to the Edge.” The New York Times. August 20, 2013.  http://www.nytimes.com/2013/08/21/opinion/friedman-close-to-the-edge.html?_r=0  
+
+Democratic Institutions and Health Policy
+Case study: Ghana, Kenya, and Senegal
+Karen A. Grepin and Kim Yi Dionne. 2013. “Democratization and Universal Health Coverage: A Case Comparison of Ghana, Kenya, and Senegal.”  Global Health Governance. VI, no. 2: 1-23
+http://blogs.shu.edu/ghg/files/2014/02/GHGJ_62_5-31_GREPIN_AND_DIONNE.pdf
+
+
