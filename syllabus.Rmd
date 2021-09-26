@@ -1,6 +1,8 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -8,8 +10,6 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
-  pdf_document:
-    toc: no
 ---
 
 
@@ -346,7 +346,7 @@ We'll also read a selected post-election recap (TBA on Tuesday 9/21)
 
 * Levi, Margaret. 1997. “A Model, A Method, And a Map:  Rational Choice In Comparative Historical Analysis.” In Comparative Politics:  Rationality, Culture, and Structure (Cambridge:  Cambridge University Press, 1997), pp. 23-27. https://drive.google.com/file/d/1lqRqk0hE1R5FWBoT72l92NW1a48L7G09/view?usp=sharing 
 
-* Przeworski, Adam. 1991. “Democracy.” In Democracy and the Market. Cambridge:  Cambridge University Press. Read pages 10-19, First paragraph under heading “Democracy is Equilibrium” on page 26. https://drive.google.com/file/d/1lqRqk0hE1R5FWBoT72l92NW1a48L7G09/view?usp=sharing
+* Przeworski, Adam. 1991. “Democracy.” In Democracy and the Market. Cambridge:  Cambridge University Press. Read pages 10-19, First paragraph under heading “Democracy is Equilibrium” on page 26. https://drive.google.com/file/d/1HmlHKZwlL2bTC8nrufnRMVilAQIrdPcl/view?usp=sharing
 
 #### Thursday, September 30 
 
