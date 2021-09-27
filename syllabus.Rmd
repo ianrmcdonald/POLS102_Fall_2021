@@ -1,8 +1,6 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -10,6 +8,8 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
+  pdf_document:
+    toc: no
 ---
 
 
@@ -361,6 +361,7 @@ We'll also read a selected post-election recap (TBA on Tuesday 9/21)
 * O’Donnell, Guillermo and Philippe Schmitter. 1986. “Pacts.” In Transitions from Authoritarian Rule:  Tentative Conclusions about Uncertain Democracies. Baltimore:  Johns Hopkins University Press. Read pages 37-39. https://bit.ly/3xCkt1z    
   
 * Wickham, Carrie. 2013.  “Egypt’s Missed Opportunity.” The New York Times. July 27, 2013. http://www.nytimes.com/2013/07/28/opinion/sunday/egypts-missed-opportunity.html?pagewanted=all  
+https://drive.google.com/file/d/1baHh8rovXiCoK7gJDkSxpqDH2WHuc1XQ/view?usp=sharing
 
 Recommended: How New Governments Deal with Old Elites https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/20/how-new-governments-deal-with-old-elites-matters-more-than-you-might-expect/  
 
