@@ -1,8 +1,6 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -10,6 +8,8 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
+  pdf_document:
+    toc: no
 ---
 
 
@@ -169,7 +169,7 @@ If this rubric seems unclear to you, please see me.
 
 * Pass/Fail assignments: Sep 21, Oct 26, Nov 23  
 * Midterm: Oct 5  
-* Paper 1 Reading Analysis: Oct 28  
+* Paper 1 Reading Analysis: Nov 2 (was originally Oct 28) 
 * Paper 2 Analytic Essay: Dec 7  
 * Final Exam: Monday Dec 13, 8:30 - 11:30 a.m.              
 
@@ -476,8 +476,7 @@ https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A383094193/
 * Drogus, Carol Ann and Stephen Orvis. 2019.  “Ethnicity” and “Race.” In *Introducing Comparative Politics:  Concepts and Cases in Context*. Los Angeles:  Sage. Read pages 105-110.
 https://bit.ly/3AzsTc7    
 
-**Assignment:**  
-Paper #1 Due https://bit.ly/3xPHkqE  
+**Assignment:  Paper is NOW DUE NOVEMBER 2**
 
 ### Week 10
 #### Tuesday, November 2  
@@ -501,6 +500,11 @@ The main neighbors in the film: Nurija & Nusreta (Muslim), Ramsija (Muslim), Sla
 **Reading:**  
 
 * Crepaz, Markus and Juerg Steiner. 2012.  “War in the Former Yugoslavia.” In European Democracies. Pearson. Read pages. 249-257. https://bit.ly/3AFv7XA
+
+**Paper #1 Assignment**  
+
+Paper #1 Due https://bit.ly/3xPHkqE  
+
 
 #### Thursday, November 4  
 
