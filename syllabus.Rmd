@@ -1,6 +1,8 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
 output:
+  pdf_document:
+    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -8,8 +10,6 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
-  pdf_document:
-    toc: no
 ---
 
 
@@ -605,7 +605,7 @@ https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014
 
 * Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic). https://bit.ly/3lZ4xUY
 
-* Ezrow & Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50  
+* Ezrow & Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50  https://bit.ly/3lm0YHB
 
 * Ezrow & Frantz, Read pages 67-77. https://bit.ly/3lY1lJf  
 
@@ -628,7 +628,7 @@ No class.  U.S. Thanksgiving holiday
 
 **Readings:**  
  
-* Ezrow & Frantz, Ch. 7
+* Ezrow & Frantz, Ch. 7 https://bit.ly/3nHvEV1
 * Case study: military regimes.  Ezrow & Frantz, pages 171-174. Read the cases of Argentina (review), Brazil, and Turkey  
 
 * Ezrow & Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico.  
@@ -645,9 +645,10 @@ https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military
 * What explains the dynamics and longevity of different types of authoritarian regimes?
 
 **Readings:**  
-* Ezrow & Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire.  
+* Ezrow & Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire.  https://bit.ly/3HHwlpo
 
-* Ezrow & Frantz, 204-206
+* Ezrow & Frantz, 204-206 https://bit.ly/3nG3h9D
+
 * Erica Frantz, Joseph Wright, and Barbara Geddes, “Did Xi Jinping just become China’s Strongman?” 
 https://bit.ly/3B7IrE7
 
