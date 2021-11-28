@@ -1,8 +1,6 @@
 ---
 title: "POLS102 Section 02 Fall 2021 Syllabus"
 output:
-  pdf_document:
-    toc: no
   html_document:
     toc: yes
     toc_float:
@@ -10,6 +8,8 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
+  pdf_document:
+    toc: no
 ---
 
 
@@ -70,7 +70,9 @@ After taking this class students should be able to:
 ### Course Materials
 
 You will need access to a copy of one book:      
-**Ezrow, Natasha M. and Erica Frantz.  2011.  *Dictators and Dictatorships: Understanding Authoritarian Regimes and Their Leaders.*  Bloomsbury. ISBN 978-1-4411-7896-6.** Copies of the book are available for sale in the bookstore and the usual places online.  I will also place a copy on three hour reserve in the library early in the semester.  
+**Ezrow, Natasha M. and Erica Frantz.  2011.  *Dictators and Dictatorships: Understanding Authoritarian Regimes and Their Leaders.*  Bloomsbury. ISBN 978-1-4411-7896-6.** 
+
+The book is available in ebook format at https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
 
 All other assigned readings are online and accessible in the Google Classroom site at https://bit.ly/3sp9FTy or directly at the source website.  Links are also available in the online version of this syllabus.  See the links in the syllabus class schedule for details.
 
@@ -307,7 +309,7 @@ Expect a brief overview of Canadian politics of the upcoming Canadian federal el
 
 * Drogus, Carol Ann and Stephen Orvis. 2011.  “What Explains Political Behavior?  Underlying Structures.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles: Sage. Read pages 25-26. https://bit.ly/37yFxM3  
 
-* Ezrow and Frantz. 2011. “Factors Conducive to Democratization.”  In *Dictators and Dictatorships: Understanding Authoritarian Regimes and their Leaders.* Read pages 28-32.  A scanned copy of these pages are at https://bit.ly/3gvhwdE
+* Ezrow and Frantz. 2011. “Factors Conducive to Democratization.”  In *Dictators and Dictatorships: Understanding Authoritarian Regimes and their Leaders.* Read pages 28-32.  A scanned copy of these pages are at https://bit.ly/3gvhwdE  Available as ebook at https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
 
 * Rueschemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephens. 1992.  “Introduction: The Problem of Capitalist Development and Democracy.” In Capitalist Development and Democracy. Chicago:  University of Chicago Press. Read pages 1-12  As you read, try to map out the argument into a causal statement.  I will refer to this reading as RSS.  https://bit.ly/2XpFPTL  
 
@@ -602,6 +604,7 @@ https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014
 * What explains the dynamics and longevity of different types of authoritarian regimes?
 
 **Readings:**
+* Ezrow & Frantz readings availble from ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
 
 * Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic). https://bit.ly/3lZ4xUY
 
@@ -628,10 +631,11 @@ No class.  U.S. Thanksgiving holiday
 
 **Readings:**  
  
-* Ezrow & Frantz, Ch. 7 https://bit.ly/3nHvEV1
+* Ezrow & Frantz, Ch. 7 https://bit.ly/3nHvEV1 Also available as ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
+
 * Case study: military regimes.  Ezrow & Frantz, pages 171-174. Read the cases of Argentina (review), Brazil, and Turkey  
 
-* Ezrow & Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico.  
+* Ezrow & Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico. Also availble as ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026  
 
 * Malaysia’s 2018 election that ended UMNO dominance: https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&sid=AONE&xid=e71736b3
 
@@ -645,6 +649,9 @@ https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military
 * What explains the dynamics and longevity of different types of authoritarian regimes?
 
 **Readings:**  
+
+* Ezrow and Frantz readings available as ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
+
 * Ezrow & Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire.  https://bit.ly/3HHwlpo
 
 * Ezrow & Frantz, 204-206 https://bit.ly/3nG3h9D
