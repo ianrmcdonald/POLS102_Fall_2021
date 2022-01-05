@@ -1,5 +1,5 @@
 ---
-title: "POLS102 Section 02 Fall 2021 Syllabus"
+title: "POLS102 Section 01 Spring 2022 Syllabus"
 output:
   html_document:
     toc: yes
@@ -18,32 +18,33 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-POLS102-02: Comparative Politics  
-CRN 26049   
-Tuesday and Thursday  1:50pm - 3:20pm   
-Miller Hall 102  
+POLS102: Comparative Politics
+Section 1
+Monday, Wednesday, and Friday  10:20am - 11:20am
+JR Howard 259
 Lewis & Clark College   
-Fall 2021  
- 
+Spring 2022
+
 Ian R. McDonald, Ph.D.  
 ianmcdonald@lclark.edu  
 Office:  Miller Hall 434  
 Phone: +1.503.768.7456  
 
-## Office Hours 
-Tuesdays 9:30-11 am & Fridays 10-11am or additional times by schedule. I can meet with you in person or video conference.
+Office Hours:   
+Monday and Wednesday 3:30-5 + email or additional times by appointment. You can meet with me in person or via teleconferencing.  
 
 ## Google Classroom
 
 Our class portal will be stored in Google Classroom.  From there, you should be able to find links to the online version of the syllabus, which will have links to all the readings.  In addition, Google Classroom will contain links for you to upload class assignments, read announcements, and find copies of  assigned readings.
 
-On the first day of class, you should respond to the Google Classroom invitation link at https://classroom.google.com/c/Mzc5NTA4OTY4MTE0?cjc=4ba3mmx.  The Class Code is 4ba3mmx.  This link should take you directly to the class once you have signed up for it: https://classroom.google.com/c/Mzc5NTA4OTY4MTE0
+On the first day of class, you should respond to the Google Classroom invitation link at https://classroom.google.com/c/NDUwMzY0NzIwMzk5?cjc=zbjwhpr.  The Class Code is zbjwhpr.  This link should take you directly to the class once you have signed up for it:
+https://classroom.google.com/u/0/c/NDUwMzY0NzIwMzk5
 
 My goal is to make this course entirely accessible using online content.  Except for one assigned paperback book, expect to find everything you need from the Google Classroom portal.
 
 ### Finding this Syllabus
 
-This syllabus is an online web page, though a PDF version is available if desired.  You can access the syllabus at this link: https://bit.ly/3sNRiYD.  Google Classroom provides a link to the syllabus at the top of Classwork section.
+This syllabus is an online web page, though a PDF version is available if desired.  You can access the syllabus at this link: [POST SYLLABUS LINK HERE].  Google Classroom provides a link to the syllabus at the top of Classwork section.
 
 ### Course Description
 What are the prospects for democracy in Egypt, Zimbabwe, or China?  Why do countries like Afghanistan, Somalia, and Syria suffer from political instability and violence?  Comparative politics seeks to answer these and similar questions by understanding and comparing political behavior and institutions in countries throughout the world. 
@@ -74,12 +75,14 @@ You will need access to a copy of one book:
 
 The book is available in ebook format at https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
 
-All other assigned readings are online and accessible in the Google Classroom site at https://bit.ly/3sp9FTy or directly at the source website.  Links are also available in the online version of this syllabus.  See the links in the syllabus class schedule for details.
+All other assigned readings are online and accessible in the Google Classroom site or directly at the source website.  Links are also available in the online version of this syllabus.  See the links in the syllabus class schedule for details.
 
 ##  Course Expectations and Rules 
 ### Reading  
 
-There is generally more than one reading assigned for each day. The class will introduce you to the many voices that form the conversation about comparative politics. Additionally, this class will ask you to practice your abilities moving from theory to specific case studies or examples.  These readings are short and you should plan to read all of them carefully in their entirety.
+There is generally more than one reading assigned for each day. The class will introduce you to the many voices that form the conversation about comparative politics. Additionally, this class will ask you to practice your abilities moving from theory to specific case studies or examples.  
+
+The assigned readings are short and you should plan to read all of them carefully in their entirety before we start each class.
  
 Students should be prepared to answer the following three questions each class period:  
 
@@ -87,32 +90,36 @@ Students should be prepared to answer the following three questions each class p
 2. What case(s) are used to answer the main question?  
 3. In one or two sentences, what is the main answer to the question?
 
-You will find a reading guides for individual readings here:  
-https://bit.ly/3gaB6vC  
+You will find a reading guides for individual readings here:  https://classroom.google.com/c/NDUwMzY0NzIwMzk5/m/NDUxMTIwMTY3NzAx/details
 
 You will find a more general guide How to Read Works in comparative politics:  
-https://bit.ly/3gaEois
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/m/NDUxMTIxODc2NjQ2/details
 
 ### Phones and Laptops.
 
-Phones and laptops are permitted. But when we're in class, be present. Do not allow your devices to distract you or anyone else. Be mindful that we have a very limited amount of time together.
+Phones and laptops are permitted. But when we're in class, be present. Do not allow your devices to distract you or anyone else. 
+
+Be mindful that we have a very limited amount of time together.  Be present.
 
 ### Recording classes.
 
-Lewis & Clark policy generally forbids recording of classes.  The policy states: "...the secret recording (audio or video) of classes, meetings or other conversations, including telephone calls, is prohibited, as not compatible with the law or the promotion of an open exchange of ideas." See me if you have questions.  The policy is available at https://www.lclark.edu/live/profiles/3606-recording-policy.
+Lewis & Clark policy generally forbids recording of classes.  The policy states: "...the secret recording (audio or video) of classes, meetings or other conversations, including telephone calls, is prohibited, as not compatible with the law or the promotion of an open exchange of ideas." 
 
-
+Please do not record classes without discussing it with me. The concern is protecting privacy, for everyone in the classroom.  See me if you have questions.  The policy is available at https://www.lclark.edu/live/profiles/3606-recording-policy.
 
 ### Health and Safety Expectations
 The College’s health and safety guidelines are applied in all settings across campus and comply with county guidelines.  We each share responsibility to keep our community healthy by adhering to the following expectations: 
 
 * Wear a face covering when inside, even when physical distancing can be maintained, and outside when physical distancing cannot be maintained.
+
 * Stay at home if you have any of the following COVID symptoms, including cough, fever or chills, shortness of breath, difficulty breathing, muscle pain, headache, sore throat, new loss of taste or smell, diarrhea, nausea, vomiting, nasal congestion, or runny nose.
 
 If you experience symptoms, please take the following steps:\
 
-* Complete the online notification form, available on the Health Information Portal. This will help us track possible COVID cases on campus to keep us all safe.  Information on COVID symptoms can be found on the LC Health and Safety Expectations webpage and on the CDC webpage. The College is also encouraging use of a self-monitoring app. Information on the app - Campus Clear - can be found here. 
+* Complete the online notification form, available on the Health Information Portal. This will help us track possible COVID cases on campus to keep us all safe.  Information on COVID symptoms can be found on the LC Health and Safety Expectations webpage and on the CDC webpage. The College is also encouraging use of a self-monitoring app. Information on the app - Campus Clear - can be found here.
+
 * Contact your professor and attend your course virtually.  If you live off campus, do not come to campus.  
+
 * Follow the advice by health care providers and student life staff regarding quarantine. More information on that can be found here. 
 
 ### Academic Honesty
@@ -124,9 +131,8 @@ Failure to meet the expectations for conduct will result in a reduction of your 
 If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation to the Student Support Services Office in Albany Quadrangle (you can use their online scheduling system to book a Zoom or phone appointment). After you have submitted documentation and filled out paperwork there for the current semester requesting accommodations, staff in that office will notify me of the accommodations for which you are eligible. 
 
 ### Course Withdrawals
-You may drop this course on WebAdvisor by Friday, September 10 at 4pm and no W grade will appear on your transcript. From then until 4pm on Friday November 5, you can withdraw from the course by submitting a Course Withdrawal form to the Registrar’s Office. In this case, a W grade will appear on your transcript.  
-
-I cannot authorize your withdrawal from the course after November 5. At that point, you will need to complete the course and take whatever grade you have earned. If you have questions or concerns about your performance in the course, please talk with me or write me anytime.
+You may drop this course on WebAdvisor by Friday, January 28 at 4pm and no W grade will appear on your transcript. From then until 4pm on Friday, April 1, you can withdraw from the course by submitting a Course Withdrawal form to the Registrar’s Office. In this case, a W grade will appear on your transcript.  
+I cannot authorize your withdrawal from the course after April 1. At that point, you will need to complete the course and take whatever grade you have earned. If you have questions or concerns about your performance in the course, please talk with me or write me anytime.
 
 ## Course Grading
 
@@ -197,7 +203,9 @@ The course calendar is organized into two sections:
 * Section 2 Major Topics in Comparative Politics October 12 - December 7  
 
 ### Week 1
-#### Tuesday, August 31
+#### Wednesday, January 19
+
+Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 **Topics:**
 
@@ -207,7 +215,9 @@ The course calendar is organized into two sections:
 
 Read the syllabus and come on Thursday with any questions that you have.  
 
-#### Thursday, September 2   
+#### Friday, January 21
+
+Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 **Topics:**  
 
@@ -223,7 +233,9 @@ Read the syllabus and come on Thursday with any questions that you have.
 https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-ethical  
 
 ### Week 2
-#### Tuesday, September 7
+#### Monday, January 24
+
+Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 **Topics:**  
 
@@ -236,7 +248,7 @@ https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-et
 
 * Diamond, Larry. 1999. “Defining and Developing Democracy.”  In *Developing Democracy: Toward Consolidation*. Baltimore:  Johns Hopkins University Press. Read pages 7-19  https://bit.ly/3jKq6WN    
 
-#### Thursday, September 9
+#### Wednesday, January 26
 
 **Topic:**  
 
