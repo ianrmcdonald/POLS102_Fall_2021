@@ -1,6 +1,6 @@
 name: "polsci_102"
 navbar:
-  title: "POLSCI 102: Comparative Politics"
+  title: "POLSCI 102: Comparative Politics Spring 2022"
   left:
     - text: "Home"
       href: index.html

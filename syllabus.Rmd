@@ -56,6 +56,7 @@ Each week we will read a diverse set of articles involving research from differe
 ### Learning Goals
 
 Learning is an interactive process that requires active engagement by the professor and students. 
+
 After taking this class students should be able to:
 
 * Demonstrate basic fluency in the main concepts and terms of comparative politics (e.g., the state, regime, and nation-state).  
@@ -134,6 +135,27 @@ If you have a disability that may impact your academic performance, you may requ
 You may drop this course on WebAdvisor by Friday, January 28 at 4pm and no W grade will appear on your transcript. From then until 4pm on Friday, April 1, you can withdraw from the course by submitting a Course Withdrawal form to the Registrar’s Office. In this case, a W grade will appear on your transcript.  
 I cannot authorize your withdrawal from the course after April 1. At that point, you will need to complete the course and take whatever grade you have earned. If you have questions or concerns about your performance in the course, please talk with me or write me anytime.
 
+## Assignments and Key Dates
+
+### February 4:  Pass/Fail Assignment 1
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjIwMjM4NDUx/details
+
+### February 27: Midterm Exam
+
+### March 9:  Pass/Fail Assignment 2
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjY3NDE1MjM3/details
+
+### March 18:  Paper 1 Reading Analysis
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjcwMDg4MDI1/details
+
+### April 18:  Pass/Fail Assignment 3
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjc1MzAzNTUw/details
+
+### April 27:  Paper 2 Analytic Essay
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjc3Mzg4MDY1/details
+
+### May 4: Final Exam
+
 ## Course Grading
 
 **Midterm Exam (20%) and Final Exam (25%)**  
@@ -173,16 +195,8 @@ F: Does not meet minimum requirements.
 
 If this rubric seems unclear to you, please see me.
 
-### Important Due Dates
-
-* Pass/Fail assignments: Sep 21, Oct 26, Nov 23  
-* Midterm: Oct 5  
-* Paper 1 Reading Analysis: Nov 2 (was originally Oct 28) 
-* Paper 2 Analytic Essay: Dec 7  
-* Final Exam: Monday Dec 13, 8:30 - 11:30 a.m.              
-
 ### Reading Guide
-Review this document for help with the individual readings (also noted above) https://bit.ly/3gaB6vC
+Review this document for help with the individual readings (also noted above)
 
 The library supports the country assignments described in Google and provides a helpful set of resources at https://library.lclark.edu/c.php?g=908438
 
@@ -190,17 +204,12 @@ The library supports the country assignments described in Google and provides a 
 
 Readings can be found in one of three places:  
 
-* Google Drive at https://bit.ly/3sp9FTy.  
+* Google Drive at https://drive.google.com/drive/u/0/folders/1PycwTQFsX2KtsrT6kgDJDl95xJ4HpXgv
 
 * The link shown below.  For periodicals and news sites, you will usually link directly to the host site.  
 
 * The Ezrow and Frantz book.  See the Course Materials section for details.    
 
-The course calendar is organized into two sections:  
-
-* Section 1 Methodology:  Concepts and Theories in Comparative Politics: August 31 - September 30
-
-* Section 2 Major Topics in Comparative Politics October 12 - December 7  
 
 ### Week 1
 #### Wednesday, January 19
@@ -211,7 +220,6 @@ Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQit
 
 * Course introduction, syllabus review, and intro to Google Classroom
 * What do mean when we talk about political systems? What are they expected to do?
-* What is Comparative Politics?  What makes a good comparison?  
 
 Read the syllabus and come on Thursday with any questions that you have.  
 
@@ -221,16 +229,11 @@ Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQit
 
 **Topics:**  
 
-* What makes a good comparison between political systems?  How objective are our comparisons?    
+* What is Comparative Politics?  What makes a good comparison?  
 
 **Readings:**  
 
-* Art, David. 2011. “Introduction.” In Inside the Radical Right:  The Development of Anti-Immigrant Parties in Western Europe.  Cambridge:  Cambridge University Press.  Read pages 1-10. https://bit.ly/3xFRERO    
-
-* Samuels, David. 2013. “Doing Comparative Politics.”  In Comparative Politics.  New York:  Pearson. Read pages 8-17 https://bit.ly/3shbB0n  
-
-* Wearing, David. 2010. “How Scientific is Political Science?” The Guardian. March 8, 2010.
-https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-ethical  
+* Samuels, David. 2013. “Doing Comparative Politics.”  In Comparative Politics.  New York:  Pearson. Read pages 8-17 https://drive.google.com/file/d/1a6NOS9Tuuie_XJFcBPdcnR5zUKSrcK3_/view?usp=sharing
 
 ### Week 2
 #### Monday, January 24
@@ -239,26 +242,35 @@ Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQit
 
 **Topics:**  
 
-* Concepts and Measurement      
-* Concept example: What is democracy?    
+* What makes a good comparison between political systems?  How objective are our comparisons?   
 
 **Readings:**
+* Art, David. 2011. “Introduction.” In Inside the Radical Right:  The Development of Anti-Immigrant Parties in Western Europe.  Cambridge:  Cambridge University Press.  Read pages 1-10. https://drive.google.com/file/d/1a6NOS9Tuuie_XJFcBPdcnR5zUKSrcK3_/view?usp=sharing
 
-* Przeworski, Adam, Michael Alvarez, Jose Cheibub, and Fernando Limongi. 2000. “Democracy and Dictatorship.” In *Democracy and Development:  Political Institutions and Well-Being in the World, 1950-1990*. New York:  Cambridge University Press, 2000. Read pages 14-18. https://bit.ly/3iE911d    
-
-* Diamond, Larry. 1999. “Defining and Developing Democracy.”  In *Developing Democracy: Toward Consolidation*. Baltimore:  Johns Hopkins University Press. Read pages 7-19  https://bit.ly/3jKq6WN    
+* Wearing, David. 2010. “How Scientific is Political Science?” The Guardian. March 8, 2010.
+https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-ethical  
 
 #### Wednesday, January 26
 
 **Topic:**  
 
-How do you measure democracy?     
+* Concept example: What is democracy?    
 
 **Readings:**   
 
+* Przeworski, Adam, Michael Alvarez, Jose Cheibub, and Fernando Limongi. 2000. “Democracy and Dictatorship.” In *Democracy and Development:  Political Institutions and Well-Being in the World, 1950-1990*. New York:  Cambridge University Press, 2000. Read pages 14-18. https://drive.google.com/file/d/18iRK5FkwDO8Ah9p0XBCvgtuzeCcGSwGs/view?usp=sharing
+
+* Diamond, Larry. 1999. “Defining and Developing Democracy.”  In *Developing Democracy: Toward Consolidation*. Baltimore:  Johns Hopkins University Press. Read pages 7-19  https://drive.google.com/file/d/1gVG5ZS_7T5DXPVbk72N6tYBflulMzN2X/view?usp=sharing
+
+#### Friday, January 28
+
+* How do you measure democracy?  
+
+**Readings**
+
 * Gunitsky, Seva. 2015. “How Do You Measure ‘Democracy’?’” The Washington Post: Monkey Cage. June 23, 2015. http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/06/23/how-do-you-measure-democracy/?wpisrc=nl_cage&wpmm=1   
 
-* Read opening sections until “Methodology Questions” regarding Freedom House’s measure of democracy: https://freedomhouse.org/reports/freedom-world/freedom-world-research-methodology  
+* Read opening sections until “Methodology Questions” regarding Freedom House’s measure of democracy: https://freedomhouse.org/reports/freedom-world/freedom-world-research-methodology 
 
 **Assignment:**  
 
@@ -268,12 +280,8 @@ Select any country that interests you from this list and has a population of ove
 
 * Note Freedom House’s classification of your country and be ready to report this classification in class. https://freedomhouse.org/report/freedom-world.  
 
-* Record your choice in a Google document using the Add/Create button. The assignment link in Google Classroom is found at https://bit.ly/2WiCIMD     
+* Record your choice in a Google document using the Add/Create button. The assignment link in Google Classroom is found at https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjEzNDkzNDE4/details
 
-**Class Note (edited 9/7/2021)**
-We will explore the definition of democracy in a small group breakout exercise.  The handout will be posted after class on Thursday.
-
-#### Friday, January 28
 
 ### Week 3
 
@@ -283,14 +291,14 @@ We will explore the definition of democracy in a small group breakout exercise. 
 
 * Theory and Evidence in Comparative Politics.  Note: we will examine the causes of democracy based on the three theoretical lenses of comparative politics. Throughout our examination we will analyze the case of Egypt after the Arab Spring.    
 
-* Democratization and the Arab Spring: The Case of Egypt    
+* Democratization and the Arab Spring: The Cases of Egypt and Tunisia    
 
 **Reading:**    
 
 * Gelvin, James. 2012.  The Arab Uprisings: What Everyone Needs to Know. Oxford University Press. Read pages from bottom of page 33-40 (How entrenched were autocracies ruling Tunisia and Egypt); 42 (Who led the Egyptian uprising in Cairo); 45-48; 49 (What changes did the uprising in Egypt bring about?).  
 http://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=886540
 
-* Ghannouchi, Rached. 2021. My Country Has Been a Dictatorship Before. We Can’t Go Back. *New York Times* July 30, 2021.  https://www.nytimes.com/2021/07/30/opinion/tunisia-protests-rached-ghannouchi.html?action=click&module=Opinion&pgtype=Homepage.  PDF available at https://bit.ly/3gekYcs
+* Ghannouchi, Rached. 2021. My Country Has Been a Dictatorship Before. We Can’t Go Back. *New York Times* July 30, 2021.  https://www.nytimes.com/2021/07/30/opinion/tunisia-protests-rached-ghannouchi.html?action=click&module=Opinion&pgtype=Homepage.  PDF available at https://drive.google.com/file/d/1cx2OzusVjOEa4DKDtugmoH_ctI22x5Ws/view?usp=sharing
 
 Recommended: Explore: http://guides.library.cornell.edu/c.php?g=31688&p=200748       
 
@@ -308,12 +316,20 @@ Recommended: Explore: http://guides.library.cornell.edu/c.php?g=31688&p=200748
 
 * Clemens, Walter. 2013. “Democracy as Chimera” The New York Times. September 20, 2013.  http://www.nytimes.com/2013/09/11/opinion/global/democracy-as-chimera.html?src=rechp 
 
+
+#### Friday, February 4
+
+* Drogus, Carol Ann and Stephen Orvis. 2011.  “What Explains Political Behavior?  Underlying Structures.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles: Sage. Read pages 25-26. https://bit.ly/37yFxM3  
+
+* Ezrow and Frantz. 2011. “Factors Conducive to Democratization.”  In *Dictators and Dictatorships: Understanding Authoritarian Regimes and their Leaders.* Read pages 28-32 in chapter 2.  Available as ebook at https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
+
 * Bruce, Daryl.  2021.  Canadian Civics 101: Why Justin Trudeau Can Call an Election. Medium Aug 5, 2021
 https://medium.com/the-partnered-pen/canadian-civics-101-why-justin-trudeau-can-call-an-election-969ea9db8297
 
-Expect a brief overview of Canadian politics of the upcoming Canadian federal election scheduled for September 20. We will explore the topic in depth on September 23.
+We will explore the Canadian political system in depth on February 9.
 
-#### Friday, February 4
+**Assignment:**  
+Pass/Fail Assignment #1 in Google Classroom is Due. https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjIwMjM4NDUx/details
 
 ### Week 4
 
@@ -325,91 +341,50 @@ Expect a brief overview of Canadian politics of the upcoming Canadian federal el
 
 **Readings:**  
 
-* Drogus, Carol Ann and Stephen Orvis. 2011.  “What Explains Political Behavior?  Underlying Structures.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles: Sage. Read pages 25-26. https://bit.ly/37yFxM3  
-
-* Ezrow and Frantz. 2011. “Factors Conducive to Democratization.”  In *Dictators and Dictatorships: Understanding Authoritarian Regimes and their Leaders.* Read pages 28-32.  A scanned copy of these pages are at https://bit.ly/3gvhwdE  Available as ebook at https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
-
 * Rueschemeyer, Dietrich, Evelyne Huber Stephens, and John D. Stephens. 1992.  “Introduction: The Problem of Capitalist Development and Democracy.” In Capitalist Development and Democracy. Chicago:  University of Chicago Press. Read pages 1-12  As you read, try to map out the argument into a causal statement.  I will refer to this reading as RSS.  https://bit.ly/2XpFPTL  
 
-**Assignment:**  
-Pass/Fail Assignment #1 in Google Classroom is Due.  https://bit.ly/3mJ6VzR
+RSS employ class analysis in this selection. A rough guide to social class distinctions in Rueschemeyer, Stephens, and Stephens:
+Peasants: have small or no landholdings in rural areas
+Working class: employed in manual labor outside of agriculture
+Urban and petty bourgeoisie: merchants, craftsmen, small farmers, and other self-employed groups with few employees [often referred to as the middle class]
+Bourgeoisie:  owners of capital (factories, large businesses), the main capitalist class
+Landed elites: large landowners, can be descendants of feudal aristocracy
+
+NEWS APPLICATION TO EGYPT.  Compare how this article differs from the op-ed by Clemens from February 3rd.
+ Friedman, Thomas. 2013. “Close to the Edge.” The New York Times. August 20, 2013.  http://www.nytimes.com/2013/08/21/opinion/friedman-close-to-the-edge.html?_r=0
+
 
 #### Wednesday, February 9
 
-**Topics:**  
+What is a rational approach?  How does rationality influence democratization?
 
-* Presidential vs. Parliamentary democracies: the example of Canada.
+Drogus, Carol Ann and Stephen Orvis. 2011.  “What Explains Political Behavior? Individual Motivation.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles:  Sage. Read pages 19-20, 28-29. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafX1hCaThFWVBoSDg/view?usp=sharing	
 
-Guest speaker:  Prof. Richard Johnston, Professor Emeritus of Political Science, University of British Columbia https://politics.ubc.ca/profile/richard-johnston/
+https://drive.google.com/a/lclark.edu/file/d/0B1U-95Uvxaafd1lmN25oOWFRT00/view?usp=sharing
+ 
+Levi, Margaret. 1997. “A Model, A Method, And a Map:  Rational Choice In Comparative Historical Analysis.” In Comparative Politics:  Rationality, Culture, and Structure (Cambridge:  Cambridge University Press, 1997), pp. 23-27. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafalJLUzNBZVN1VXc/view?usp=sharing
 
-Today we will examine the September 20 Canadian federal election, and a preview about parliamentary electoral systems. Canada's political system demonstrates federalism and the British parliamentary model. 
+Przeworski, Adam. 1991. “Democracy.” In Democracy and the Market. Cambridge:  Cambridge University Press. Read pages 10-19, First paragraph under heading “Democracy is Equilibrium” on page 26. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafRHRVbXNiNmN5ME0/view?usp=sharing
 
-**Readings:**  
-
-Malloy, Jonathan and Paul J. Quirk. 2019. Executive Leadership and the Legislative Process.  in *The United States and Canada: How Two Democracies Differ and Why it Matters* ed. Paul J. Quirk. Read pp. 79-87. (i.e., pages 1-9 of the pdf). https://bit.ly/3sHfEU5
-
-Federal election 2021: What are the challenges facing the major political parties before Canada votes on Sept. 20? *The Globe and Mail* August 15, 2021. https://www.theglobeandmail.com/politics/article-party-challenges-and-strategies-for-the-2021-federal-election/
-
-We'll also read a selected post-election recap
 
 #### Friday, February 11
+
+How does rationality influence democratization?
+
+Christian Welzel. 2009. “Elite Pacts, Mass Mobilization, and Democratization.” Oxford:  Oxford University Press. Read pages 82-83. https://drive.google.com/open?id=1cH6icdgbINDzBVPZuCGTQFvmce6q3Eeh
+
+O’Donnell, Guillermo and Philippe Schmitter. 1986. “Pacts.” In Transitions from Authoritarian Rule:  Tentative Conclusions about Uncertain Democracies. Baltimore:  Johns Hopkins University Press. Read pages 37-39. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafaHVfN2V1eHVhVzg/view?usp=sharing
+
+Carrie Wickham. 2013.  “Egypt’s Missed Opportunity.” The New York Times. July 27, 2013. http://www.nytimes.com/2013/07/28/opinion/sunday/egypts-missed-opportunity.html?pagewanted=all
+
+Recommended: https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/20/how-new-governments-deal-with-old-elites-matters-more-than-you-might-expect/
+
+Recommended: The Arab Spring at Ten Years: What’s the Legacy of the Uprisings?
+https://www.cfr.org/article/arab-spring-ten-years-whats-legacy-uprisings
 
 ### Week 5
 
 #### Monday, February 14
-
-**Topics:**    
-
-*  What is a rationalist approach to studying political systems?  
-*  How does rationality influence democratization?  
-
-**Readings:**  
-
-* Drogus, Carol Ann and Stephen Orvis. 2011.  “What Explains Political Behavior? Individual Motivation.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles:  Sage. Read pages 19-20 https://bit.ly/3lZyWT1, and 28-29 https://bit.ly/37zhqwK.  
-
-* Levi, Margaret. 1997. “A Model, A Method, And a Map:  Rational Choice In Comparative Historical Analysis.” In Comparative Politics:  Rationality, Culture, and Structure (Cambridge:  Cambridge University Press, 1997), pp. 23-27. https://drive.google.com/file/d/1lqRqk0hE1R5FWBoT72l92NW1a48L7G09/view?usp=sharing 
-
-* Przeworski, Adam. 1991. “Democracy.” In Democracy and the Market. Cambridge:  Cambridge University Press. Read pages 10-19, First paragraph under heading “Democracy is Equilibrium” on page 26. https://drive.google.com/file/d/1HmlHKZwlL2bTC8nrufnRMVilAQIrdPcl/view?usp=sharing
-
-#### Tuesday, February 16
-
-**Topic:**  
-
-* How does rationality influence democratization?  
-
-**Readings:**  
-
-* Welzel, Christian. 2009. “Elite Pacts, Mass Mobilization, and Democratization.” Oxford:  Oxford University Press. Read pages 82-83. https://bit.ly/3CSSuie  
-
-* O’Donnell, Guillermo and Philippe Schmitter. 1986. “Pacts.” In Transitions from Authoritarian Rule:  Tentative Conclusions about Uncertain Democracies. Baltimore:  Johns Hopkins University Press. Read pages 37-39. https://bit.ly/3xCkt1z    
-  
-* Wickham, Carrie. 2013.  “Egypt’s Missed Opportunity.” The New York Times. July 27, 2013. http://www.nytimes.com/2013/07/28/opinion/sunday/egypts-missed-opportunity.html?pagewanted=all  
-https://drive.google.com/file/d/1baHh8rovXiCoK7gJDkSxpqDH2WHuc1XQ/view?usp=sharing
-
-Recommended: How New Governments Deal with Old Elites https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/20/how-new-governments-deal-with-old-elites-matters-more-than-you-might-expect/  
-
-Recommended: The Arab Spring at Ten Years: What’s the Legacy of the Uprisings?
-https://www.cfr.org/article/arab-spring-ten-years-whats-legacy-uprisings  
-
-#### Friday, February 18
-
-### Week 6
-
-#### Monday, February 21
-
-Midterm Exam
-
-#### Wednesday, February 23
-
-No Class.  Fall Break.  
-
-#### Friday, February 25
-
-### Week 7
-
-#### Monday, February 28 
-
-**Topics:**  
 
 * States and Nations:  The Building Blocks of Political Order
 * What is the state and what are its origins?  
@@ -422,7 +397,7 @@ https://bit.ly/2XdPVGY
 * Tilly, Charles. 1985. “War Making and State Making as Organized Crime.” In Bringing the State Back In, edited by Peter Evans, Dietrich Ruschemeyer, and Theda Skocpol, READ 169-175 (stop at Protection as Business), 181 (Begin What Do States Do?)-186.  
 https://bit.ly/3jPnA1l  
 
-#### Wednesday, March 2
+#### Wednesday, February 16
 
 **Topic:**  
 
@@ -432,17 +407,7 @@ https://bit.ly/3jPnA1l
 
 * Drogus, Carol Ann and Stephen Orvis. 2019.  “The State.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles:  Sage. Read pages 40-48. https://bitly.com/3lXIEoZ   
 
-#### Friday, March 4
-
-### Week 8
-
-#### Monday, March 7
-
-**Topic:**  
-
-* Applying State Building Theories: The Case of Zimbabwe  
-
-**Readings:**
+#### Friday, February 18
 
 * Review the slide deck in the pdf of “Defining the State?” at https://bit.ly/3yXv8Wj  
 
@@ -456,8 +421,10 @@ https://bit.ly/3jPnA1l
 Please watch the film and read the Samantha Power article while answering the following questions (these are directly from the reading guide: Be ready to share your answers to these questions in-class; the questions appear in Google Classroom).
 
 This will be an excellent day to reflect on the crisis in Afghanistan, and we can determine the agenda as events unfold.
- 
-#### Wednesday, March 9
+
+### Week 6
+
+#### Monday, February 21
 
 **Topics:**  
 
@@ -469,19 +436,32 @@ This will be an excellent day to reflect on the crisis in Afghanistan, and we ca
 
 **Readings:**  
 
-* Review your notes about the film and article on Zimbabwe from October 19.
-
 * Anderson, Benedict. 1983. Introduction: Concepts and Definitions and Cultural Roots. In *Imagined Communities: Reflections on the Origins and Spread of Nationalism.* Read pages. 5-7. 
 https://library.lcproxy.org/login?url=https://hdl.handle.net/2027/heb.01609
 
+Midterm Exam Review
+
+#### Wednesday, February 23
+
+Midterm Exam
+
+#### Friday, February 25
+
+No class.  See you on February 28.
+
+### Week 7
+
+#### Monday, February 28 
+
+What is nationalism?  What makes nationalism “successful” or not?
+
+* Anderson, Benedict. 1983. Introduction: Concepts and Definitions and Cultural Roots. In *Imagined Communities: Reflections on the Origins and Spread of Nationalism.* Read pages. 5-7. (Reread from last week)
+https://library.lcproxy.org/login?url=https://hdl.handle.net/2027/heb.01609
+
 * King, Charles. 2010.  Extreme Politics: Nationalism, Violence, and the End of Eastern Europe.  Oxford:  Oxford University Press. Read “Theorizing Failure” pages 38-44
-http://ebookcentral.proquest.com/lib/lewisclark/detail.action?docID=472310  
+http://ebookcentral.proquest.com/lib/lewisclark/detail.action?docID=472310 
 
-#### Friday, March 11
-
-### Week 9
-
-#### Monday, March 14
+#### Wednesday, March 2
 
 **Topic:**  
 
@@ -496,24 +476,71 @@ https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A383094193/
 
 * Recommended: Ross, Elliot. 2019.  Is Brexit Worth Scotland's Independence? *The Atlantic Monthly* July 31, 2019  https://bit.ly/3ssglAi
 
-**Assignment:**  
+#### Friday, March 4
 
-* Pass-Fail Assignent #2 Due  https://bit.ly/3xVuRla  
+What is the distinction between a nation, ethnic group, or race?
+
+Drogus, Carol Ann and Stephen Orvis. 2019.  “Ethnicity” and “Race.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles:  Sage. Read pages 105-110.  https://drive.google.com/file/d/1ReXvfsLD3uk2xGlVUqoG-8j6YSnII0Jd/view?usp=sharing
+
+### Week 8
+
+#### Monday, March 7
+
+Why and when does nationalism result in political violence? The Case of Yugoslavia
+
+We will watch this film as a class:  https://primo.lclark.edu/permalink/f/1780deo/CP71325424690001451
+
+Questions for reflection while watching the film:  Compare and contrast the relations amongst neighbors at the beginning and end of the film. What are some of the factors that you observed in the film that may help to explain why neighborly relations changed?
+The main neighbors in the film: Nurija & Nusreta (Muslim), Ramsija (Muslim), Slavka (Catholic), Andja (Catholic)
+
+Crepaz, Markus and Juerg Steiner. 2012.  “War in the Former Yugoslavia.” In European Democracies. Pearson. Read pages. 249-257. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafTUlxSDJXbFJ2d00/view?usp=sharing
+
+#### Wednesday, March 9
+
+Why and when does nationalism result in political violence?  The Case of Yugoslavia
+
+PLEASE NOTE: The reading guide contains a glossary of key names. Oberschall, Anthony. 2000. “The Manipulation of Ethnicity: From Ethnic Cooperation to Violence and War in Yugoslavia.” Ethnic and Racial Studies 23, no. 6: 982-987. 
+http://library.lcproxy.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=3974511&site=ehost-live&scope=site 
+
+Pass-Fail Assignent #2 Due  https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjY3NDE1MjM3/details
+
+#### Friday, March 11
+
+Why and when does nationalism result in political violence?  The Case of Yugoslavia
+
+Oberschall, Anthony. 2000. “The Manipulation of Ethnicity: From Ethnic Cooperation to Violence and War in Yugoslavia.” Ethnic and Racial Studies 23, no. 6: 987-1001. 
+http://library.lcproxy.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=3974511&site=ehost-live&scope=site 
+
+PLEASE NOTE: The reading guide contains a glossary of key names. https://classroom.google.com/c/NDUwMzY0NzIwMzk5/m/NDUxMTIwMTY3NzAx/details
+
+### Week 9
+
+#### Monday, March 14
+
+What impact do electoral systems have on the way political demands are processed and power is organized?  
+
+How do the United Kingdom and the Netherlands illustrate the variety of electoral systems and their effects?
+
+Taagepera, Rein and Matthew Shugart.  “Why Study Electoral Systems?” In Contending Perspectives in Comparative Politics. Washington D.C., CQ Press.  Read pages 165-168. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafbjlCTDFDcXhfaVU/view?usp=sharing
+
+Crepaz, Juerg and Markus Steiner. 2012. “The Netherlands.” In European Democracies Pearson.  Read pages 70-73. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafZDJPc2kzMjktbUE/view?usp=sharing
 
 #### Wednesday, March 16
 
-**Topic:**  
+Crepaz, Juerg and Markus Steiner. 2012. “The United Kingdom.” In European Democracies.  Pearson. Read pages 65-70. https://drive.google.com/a/lclark.edu/file/d/0B1U-95Uvxaafa1dldXNlcV9oX0U/view?usp=sharing
 
-* What is the distinction between these terms: nation, ethnic group, and race?  
-
-**Reading:**  
-
-* Drogus, Carol Ann and Stephen Orvis. 2019.  “Ethnicity” and “Race.” In *Introducing Comparative Politics:  Concepts and Cases in Context*. Los Angeles:  Sage. Read pages 105-110.
-https://bit.ly/3AzsTc7    
-
-**Assignment:  Paper is NOW DUE NOVEMBER 2**
+Blumenau, Jack and Simon Hix. 2015. “What Would Britain Look Like Under Proportional Representation?” The Washington Post:  Monkey Cage. May 6, 2015. 
+https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A412534697/AONE?u=lacc_legal&sid=AONE&xid=197f6ed5
 
 #### Friday, March 18
+
+What are the strengths and weaknesses of different electoral systems?  
+Pippa Norris. 1997.  “Choosing Electoral Systems: Proportional, Majoritarian, and Mixed Systems.” International Political Science Review 18. No. 3.  Read only pages 306-311. http://journals.sagepub.com/doi/pdf/10.1177/019251297018003005 or here at: https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafM1UzOG5mQ3lrc0E/view?usp=sharing
+Lijphart, Arend. 1998.  “Reforming the House: Three Moderately Radical Proposals.” P.S.: Political Science and Politics, 31, no.1: 10-13. 
+https://library.lcproxy.org/login?url=https://www.jstor.org/stable/420424
+
+Paper #1 Due
+https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDUxNjcwMDg4MDI1/details
 
 ### Week 10 SPRING BREAK
 
@@ -523,62 +550,47 @@ https://bit.ly/3AzsTc7
 
 #### Monday, March 28
 
-**Topic:**  
+What are the strengths and weaknesses of different electoral systems?
 
-* Why and when does nationalism result in political violence? The Case of Yugoslavia  
-
-**Video:**  
-
-* *We Are All Neighbors* available at Watzek library here: https://bit.ly/3iW8lVm
-This film is about 1 hour in length, and we will watch it in class.
-
-Questions for reflection while watching the film:    
-
-* Compare and contrast the relations amongst neighbors at the beginning and end of the film.  
-* What are some of the factors that you observed in the film that may help to explain why neighborly relations changed? 
-
-The main neighbors in the film: Nurija & Nusreta (Muslim), Ramsija (Muslim), Slavka (Catholic), Andja (Catholic)  
-
-**Reading:**  
-
-* Crepaz, Markus and Juerg Steiner. 2012.  “War in the Former Yugoslavia.” In European Democracies. Pearson. Read pages. 249-257. https://bit.ly/3AFv7XA
-
-**Paper #1 Assignment**  
-
-Paper #1 Due https://bit.ly/3xPHkqE  
+Selway, Joel.  2020.  “Which kinds of democracies respond more effectively in a pandemic?” The Washington Post.  May 19.  
+https://www.washingtonpost.com/politics/2020/05/19/which-kinds-democracies-respond-more-effectively-pandemic/
+Lardeyret, Guy. 1991.  “The Problem with PR.”  Journal of Democracy, 2, no. 3:.30-35. 
+https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225584
+Gladdish, Ken. 1993.  “The Primacy of the Particular.” Journal of Democracy, 4, no.1: 53-65.
+https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225487
 
 #### Wednesday, March 30
 
-**Topic:**  
+Governing Institutions: What are the main differences between presidential and parliamentary systems?  What are the strengths and weaknesses of different constitutional forms?
 
-* Why and when does nationalism result in political violence?  The Case of Yugoslavia (continued)
+Drogus, Carol Ann and Stephen Orvis. 2011.  “Parliamentary Rule in Britain and India” and  “Presidentialism in the United States and Brazil” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles: Sage. https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafWVFGQ0ZMNld6UVE/view?usp=sharing
 
-**Reading:**  
+https://drive.google.com/a/lclark.edu/file/d/0B1U-95UvxaafSVEtV25aMWtOOUE/view?usp=sharing
 
-* Oberschall, Anthony. 2000. “The Manipulation of Ethnicity: From Ethnic Cooperation to Violence and War in Yugoslavia.” Ethnic and Racial Studies 23, no. 6: 982-987. 
-https://bit.ly/2W5OY2M
+Recommended: Recent Examples of No Confidence Votes
 
-Note: The reading guide contains a glossary of key names in Oberschall 2000. https://bit.ly/3gaB6vC  
+https://balkaninsight.com/2020/08/18/romanian-government-threatened-with-no-confidence-vote
+
+https://www.bbc.com/news/uk-politics-48379730
+
+https://www.nytimes.com/2018/12/22/world/americas/guyana-government-falls.html
 
 #### Friday, April 1
+
+What are the main differences between presidential and parliamentary systems?  What are the strengths and weaknesses of different constitutional forms?
+Juan Linz. 1990. “The Perils of Presidentialism” Journal of Democracy 1, no. 1: 51-69. 
+https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225694
+
+Recommended application of Linz to the US:” Is US Presidentialist Democracy Failing?”
+https://www.washingtonpost.com/opinions/is-the-us-presidentialist-democracy-failing/2016/02/10/37fa9ec8-d018-11e5-abc9-ea152f0b9561_story.html?utm_term=.a281aee08c11
 
 ### Week 12
 
 #### Monday, April 4
 
-**Topics:**  
-
-* Variations in Democratic Forms of Rule:  The Institutions of Processing Political Demands  
-
-* What impact do electoral systems have on the way political demands are processed and power is organized?  
-
-* How do the United Kingdom and the Netherlands illustrate the variety of electoral systems and their effects?  
-
-**Readings:**  
-
-* Taagepera, Rein and Matthew Shugart. 2008.  “Why Study Electoral Systems?” In Contending Perspectives in Comparative Politics. Washington D.C., CQ Press.  Read pages 165-168. https://bit.ly/2VMmgEi    
-
-* Crepaz, Juerg and Markus Steiner. 2012. “The Netherlands.” In European Democracies Pearson.  Read pages 70-73. https://bit.ly/3lXm0NC  
+What are the main differences between presidential and parliamentary systems?  What are the strengths and weaknesses of different constitutional forms?
+READ 449-455; SKIM FOR MAIN POINTS 456-469. Scott Mainwaring and Matthew Shugart. 1997. “Juan Linz, Presidentialism and Democracy:  A Critical Appraisal” Comparative Politics. 29, no: 4: 449-469. 
+https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014 
 
 #### Wednesday, April 6
 
@@ -599,115 +611,88 @@ https://www.washingtonpost.com/politics/2020/05/19/which-kinds-democracies-respo
 
 #### Friday April 8
 
+What are the main differences between presidential and parliamentary systems?  What are the strengths and weaknesses of different constitutional forms?
+READ 449-455; SKIM FOR MAIN POINTS 456-469. Scott Mainwaring and Matthew Shugart. 1997. “Juan Linz, Presidentialism and Democracy:  A Critical Appraisal” Comparative Politics. 29, no: 4: 449-469. 
+https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014
+
 ### Week 13
 
 #### Monday, April 11
 
-**Topic:**  
+Democratic Institutions and Health Policy Case study: Ghana, Kenya, and Senegal
 
-* What are the strengths and weaknesses of different electoral systems?    
-
-**Readings:**  
-
-* Norris, Pippa. 1997.  “Choosing Electoral Systems: Proportional, Majoritarian, and Mixed Systems.” International Political Science Review 18. No. 3.  Read only pages 306-311. http://journals.sagepub.com/doi/pdf/10.1177/019251297018003005 or here at: https://bit.ly/3sdHU0f     
-
-* Lijphart, Arend. 1998.  “Reforming the House: Three Moderately Radical Proposals.” *P.S.: Political Science and Politics*, 31, no.1: 10-13.         
-https://library.lcproxy.org/login?url=https://www.jstor.org/stable/420424  
-
-* Lardeyret, Guy. 1991.  “The Problem with PR.” *Journal of Democracy*, 2, no. 3:.30-35. 
-https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225584
-
-**Video:**
-Watch this short **Video:**  https://globalnews.ca/video/rd/977052227883/?jwsource=cl
-
+Karen A. Grepin and Kim Yi Dionne. 2013. “Democratization and Universal Health Coverage: A Case Comparison of Ghana, Kenya, and Senegal.”  Global Health Governance. VI, no. 2: 1-23
+http://blogs.shu.edu/ghg/files/2014/02/GHGJ_62_5-31_GREPIN_AND_DIONNE.pdf
 
 #### Wednesday, April 13
 
-**Topic:**  
+How are non-democratic countries similar and different from one another?
 
-* Governing Institutions: What are the main differences between presidential and parliamentary systems?  What are the strengths and weaknesses of different constitutional forms?
+Review Grepin & Dionne from April 2.  During class we’ll go into breakout rooms with the following discussion questions:
 
-**Readings:**  
+Group 1-5: Compare and contrast democratization and health care policy in Ghana and Senegal
 
-* Linz, Juan. 1990. “The Perils of Presidentialism” Journal of Democracy 1, no. 1: 51-69. 
-https://library.lcproxy.org/login?url=https://muse.jhu.edu/article/225694
-
-Recommended application of Linz to the US:” Is US Presidentialist Democracy Failing?”
-https://www.washingtonpost.com/opinions/is-the-us-presidentialist-democracy-failing/2016/02/10/37fa9ec8-d018-11e5-abc9-ea152f0b9561_story.html?utm_term=.a281aee08c11
-
-* READ 449-455; SKIM FOR MAIN POINTS 456-469. Scott Mainwaring and Matthew Shugart. 1997. “Juan Linz, Presidentialism and Democracy:  A Critical Appraisal” Comparative Politics. 29, no: 4: 449-469. 
-https://library.lcproxy.org/login?url=https://www.jstor.org/stable/422014
+Group 6-10: Compare and contrast democratization and health care policy in Ghana and Kenya Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic).
 
 #### Friday, April 15
+
+How do elections and parties work in non-democracies?
+Ezrow & Frantz, Read pages 67-77
+The Russian 2018 presidential election: https://edition.cnn.com/2018/03/19/europe/russia-election-reaction-intl/index.html
 
 
 ### Week 14
 #### Monday, April 18
 
-**Topics:**
+What causes non-democratic forms of rule?
+Pass/Fail Assignment #3 Due
+Ezrow & Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50
 
-* Varieties of Non-Democratic Rule
-* How are non-democratic countries similar and different from one another?
-* How do elections and parties work in non-democracies?
-* What explains the dynamics and longevity of different types of authoritarian regimes?
-
-**Readings:**
-* Ezrow & Frantz readings availble from ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
-
-* Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic). https://bit.ly/3lZ4xUY
-
-* Ezrow & Frantz, Read pages 33 (starting with Explaining the Type of Dictatorship)-50  https://bit.ly/3lm0YHB
-
-* Ezrow & Frantz, Read pages 67-77. https://bit.ly/3lY1lJf  
-
-* The Russian 2018 presidential election: https://edition.cnn.com/2018/03/19/europe/russia-election-reaction-intl/index.html
-
-**Assignment:**
-Pass-Fail Assignment #3 Due https://bit.ly/3k4AAAs
 
 #### Wednesday, April 20
 
+Wednesday, April 14
+What explains economic variations in non-democracies?
+Review the group work question posted on our class notes.  At the start of class we’ll go into breakout rooms to discuss
+Ezrow & Frantz, Ch. 7
+
 #### Friday, April 22
+
+What explains the dynamics and longevity of different types of authoritarian regimes?
+Case study: military regimes
+Ezrow & Frantz, pages 171-174, Read the cases of Argentina (review), Brazil, and Turkey
+Max Fisher. 2019. “A Very Dangerous Game: In Latin America Embattled Leaders Lean on Generals” New York Times October 31, 2019. 
+https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military.html
+
+Recommended
+Algeria:
+https://www.washingtonpost.com/politics/2019/04/05/why-algerias-army-abandoned-bouteflika/?utm_term=.56be25cd5233&wpisrc=nl_cage&wpmm=1
+
+Brazil:
+https://www.reuters.com/article/us-brazil-politics/brazil-military-takes-up-coup-commemoration-at-bolsonaros-behest-idUSKCN1RC09J?utm_source=applenews
+
+Sudan:
+https://www.washingtonpost.com/politics/2019/04/15/four-things-know-about-sudans-coups/?noredirect=on&utm_term=.affcebfa0c1f
+
 
 ### Week 15
 #### Monday, April 25
 
-**Topics:**   
+What explains the dynamics and longevity of different types of authoritarian regimes?
+Case study: single party regimes
+Ezrow & Frantz, 193-200, Read the cases of  Hungary, Malaysia and Mexico
+Malaysia’s 2018 election that ended UMNO dominance: https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&sid=AONE&xid=e71736b3
 
-* What causes non-democratic forms of rule?
-* What explains economic variations in non-democracies?
-* What explains the dynamics and longevity of different types of authoritarian regimes?
-
-**Readings:**  
- 
-* Ezrow & Frantz, Ch. 7 https://bit.ly/3nHvEV1 Also available as ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
-
-* Case study: military regimes.  Ezrow & Frantz, pages 171-174. Read the cases of Argentina (review), Brazil, and Turkey  
-
-* Ezrow & Frantz, 193-200, Read the cases of Hungary, Malaysia and Mexico. Also availble as ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026  
-
-* Malaysia’s 2018 election that ended UMNO dominance: https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A538839322/AONE?u=lacc_legal&sid=AONE&xid=e71736b3
-
-* Fisher, Max. 2019. “A Very Dangerous Game: In Latin America Embattled Leaders Lean on Generals” *New York Times* October 31, 2019. 
-https://www.nytimes.com/2019/10/31/world/americas/latin-america-protest-military.html
 
 #### Wednesday, April 27
 
-**Topics:**
+What explains the dynamics and longevity of different types of authoritarian regimes?
+Case study: personalist regimes
+Ezrow & Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire.
+Zimbabwe case study: “It’s been one year since Zimbabwe toppled Mugabe. Why isn’t it a democracy yet?”
+https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/17/its-been-one-year-since-zimbabwe-toppled-mugabe-why-isnt-it-a-democracy-yet/?utm_term=.f0ff16c31520&wpisrc=nl_cage&wpmm=1
 
-* What explains the dynamics and longevity of different types of authoritarian regimes?
 
-**Readings:**  
-
-* Ezrow and Frantz readings available as ebook:  https://ebookcentral.proquest.com/lib/lewisclark/reader.action?docID=661026
-
-* Ezrow & Frantz, 220-225, Read the cases of Central African Republic (review), Uganda, and Zaire.  https://bit.ly/3HHwlpo
-
-* Ezrow & Frantz, 204-206 https://bit.ly/3nG3h9D
-
-* Erica Frantz, Joseph Wright, and Barbara Geddes, “Did Xi Jinping just become China’s Strongman?” 
-https://bit.ly/3B7IrE7
-[3]
 
 **Topic:**
 
@@ -731,9 +716,36 @@ https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/17/its-been-one-year-
 
 *  Brazil: https://www.washingtonpost.com/world/2021/07/23/brazil-bolsonaro/
 
+Future trajectories of non-democratic forms of rule
+Case study: China
+Ezrow & Frantz, 204-206
+Erica Frantz, Joseph Wright, and Barbara Geddes, “Did Xi Jinping just become China’s Strongman?” 
+https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A530900222/AONE?u=lacc_legal&sid=AONE&xid=ad630011
+
+Recommended:
+https://foreignpolicy.com/2018/10/15/chinas-great-leap-backward-xi-jinping/
+
+
 **Assignment:**
-Paper #2 Due https://bit.ly/3mbXxo0
+Paper #2 Due 
 
 ### Week 16
 #### Tuesday, May 4 1-4pm
 Final Exam
+
+
+* Presidential vs. Parliamentary democracies: the example of Canada.
+
+**Readings:**  
+
+Malloy, Jonathan and Paul J. Quirk. 2019. Executive Leadership and the Legislative Process.  in *The United States and Canada: How Two Democracies Differ and Why it Matters* ed. Paul J. Quirk. Read pp. 79-87. (i.e., pages 1-9 of the pdf). https://bit.ly/3sHfEU5
+
+Way, Lucan Ahmad and Steven Levitsky. 2019. "How autocrats can rig the game and damage democracy." The Washington Post. January 4. 
+https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A568353459/AONE?u=lacc_legal&sid=AONE&xid=aa06d8b0
+Amanda Taub. 2016.  “How Stable Are Democracies? ‘Warning Signs are Flashing Red’ The New York Times. November 29. https://www.nytimes.com/2016/11/29/world/americas/western-liberal-democracy.html
+Yascha Mounk and Roberto Stefan. 2016. “Yes People Are Really Turning Away from Democracy” The Washington Post. December 8. 
+https://library.lcproxy.org/login?url=https://link.gale.com/apps/doc/A473340695/AONE?u=lacc_legal&sid=AONE&xid=257926df
+
+Cristina Bodea and Christian House. 2020. “The longer-term coronavirus fallout could erode democracy.  Here’s how that could play out.” The Washington Post. August 4. https://www.washingtonpost.com/politics/2020/08/04/longer-term-coronavirus-fallout-could-erode-democracy-heres-how-that-could-play-out/
+Roberto Stefan Foa and Andrew James Klassen. 2020. “How democracies can survive dilemmas like the coronavirus.” The Washington Post. May 13.  https://www.washingtonpost.com/politics/2020/05/13/how-democracies-can-survive-crises-like-coronavirus/
+
