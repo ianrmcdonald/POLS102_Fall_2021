@@ -8,6 +8,9 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
+  word_document:
+    toc: no
+    toc_depth: '4'
   pdf_document:
     toc: no
 ---
@@ -28,7 +31,9 @@ Spring 2022
 Ian R. McDonald, Ph.D.  
 ianmcdonald@lclark.edu  
 Office:  Miller Hall 434  
-Phone: +1.503.768.7456  
+Phone: +1.503.768.7456 
+Zoom PMI: 508 354 7883
+
 
 Office Hours:   
 Monday and Wednesday 3:30-5 + email or additional times by appointment. You can meet with me in person or via teleconferencing.  
@@ -230,7 +235,8 @@ Readings can be found in one of three places:
 ### Week 1
 #### Wednesday, January 19
 
-Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 **Topics:**
 
@@ -241,8 +247,8 @@ Read the syllabus and come on Thursday with any questions that you have.
 
 #### Friday, January 21
 
-Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
-
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 **Topics:**  
 
 * What is Comparative Politics?  What makes a good comparison?  
@@ -254,7 +260,8 @@ Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQit
 ### Week 2
 #### Monday, January 24
 
-Zoom Meeting Link:  https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 **Topics:**  
 
@@ -269,6 +276,9 @@ https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-et
 
 #### Wednesday, January 26
 
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
+
 **Topic:**  
 
 * Concept example: What is democracy?    
@@ -280,6 +290,9 @@ https://www.theguardian.com/commentisfree/2010/mar/08/political-science-moral-et
 * Diamond, Larry. 1999. “Defining and Developing Democracy.”  In *Developing Democracy: Toward Consolidation*. Baltimore:  Johns Hopkins University Press. Read pages 7-19  https://drive.google.com/file/d/1gVG5ZS_7T5DXPVbk72N6tYBflulMzN2X/view?usp=sharing
 
 #### Friday, January 28
+
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 * How do you measure democracy?  
 
@@ -304,6 +317,9 @@ Select any country that interests you from this list and has a population of ove
 
 #### Monday, January 31  
 
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
+
 **Topics:**     
 
 * Theory and Evidence in Comparative Politics.  Note: we will examine the causes of democracy based on the three theoretical lenses of comparative politics. Throughout our examination we will analyze the case of Egypt after the Arab Spring.    
@@ -321,6 +337,9 @@ Recommended: Explore: http://guides.library.cornell.edu/c.php?g=31688&p=200748
 
 #### Wednesday, February 2
 
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
+
 **Topic:**  
 
 * What is a cultural approach? How might culture influence democratization?  
@@ -335,6 +354,9 @@ Recommended: Explore: http://guides.library.cornell.edu/c.php?g=31688&p=200748
 
 
 #### Friday, February 4
+
+Zoom link:  
+https://zoom.us/j/5083547883?pwd=QzVVNG5QMjJSTUlPZ1JTSWszQitTZz09
 
 * Drogus, Carol Ann and Stephen Orvis. 2011.  “What Explains Political Behavior?  Underlying Structures.” In Introducing Comparative Politics:  Concepts and Cases in Context. Los Angeles: Sage. Read pages 25-26. https://drive.google.com/file/d/1asdOtO0T9Hg-1kHJC6CpTuzbOY_n95ji/view?usp=sharing
 
