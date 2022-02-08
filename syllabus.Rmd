@@ -230,7 +230,7 @@ The library supports the country assignments described in Google and provides a 
 
 Readings can be found in one of three places:  
 
-* Google Drive at https://drive.google.com/drive/u/0/folders/1PycwTQFsX2KtsrT6kgDJDl95xJ4HpXgv
+* Google Drive at https://drive.google.com/drive/folders/1PycwTQFsX2KtsrT6kgDJDl95xJ4HpXgv?usp=sharing
 
 * The link shown below.  For periodicals and news sites, you will usually link directly to the host site.  
 
