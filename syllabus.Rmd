@@ -1,6 +1,11 @@
 ---
 title: "POLS102 Section 01 Spring 2022 Syllabus"
 output:
+  pdf_document:
+    toc: no
+  word_document:
+    toc: no
+    toc_depth: '4'
   html_document:
     toc: yes
     toc_float:
@@ -8,11 +13,6 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
-  word_document:
-    toc: no
-    toc_depth: '4'
-  pdf_document:
-    toc: no
 ---
 
 
@@ -530,7 +530,7 @@ Drogus, Carol Ann and Stephen Orvis. 2019.  “Ethnicity” and “Race.” In I
 
 Why and when does nationalism result in political violence? The Case of Yugoslavia
 
-We will the film *We Are All Neighbours* as a class:  https://primo.lclark.edu/permalink/f/1780deo/CP71325424690001451
+We will watch the film *We Are All Neighbours* as a class:  https://primo.lclark.edu/permalink/f/1780deo/CP71325424690001451
 
 Questions for reflection while watching the film:  Compare and contrast the relations amongst neighbors at the beginning and end of the film. What are some of the factors that you observed in the film that may help to explain why neighborly relations changed?
 The main neighbors in the film: Nurija & Nusreta (Muslim), Ramsija (Muslim), Slavka (Catholic), Andja (Catholic)
