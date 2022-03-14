@@ -1,11 +1,6 @@
 ---
 title: "POLS102 Section 01 Spring 2022 Syllabus"
 output:
-  pdf_document:
-    toc: no
-  word_document:
-    toc: no
-    toc_depth: '4'
   html_document:
     toc: yes
     toc_float:
@@ -13,6 +8,11 @@ output:
       smooth_scroll: no
     toc_depth: 4
     self_contained: no
+  word_document:
+    toc: no
+    toc_depth: '4'
+  pdf_document:
+    toc: no
 ---
 
 
@@ -676,11 +676,9 @@ http://blogs.shu.edu/ghg/files/2014/02/GHGJ_62_5-31_GREPIN_AND_DIONNE.pdf
 
 #### Wednesday, April 13
 
-How are non-democratic countries similar and different from one another?
+GUEST LECTURE:  Prof. Leah Gilbert, Lewis & Clark College.  Reading TBD:  Russia and Ukraine
 
 Review Grepin & Dionne from April 11.  
-
-Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic).
 
 #### Friday, April 15
 
@@ -700,10 +698,12 @@ Pass-Fail Assignent #3 Due https://classroom.google.com/c/NDUwMzY0NzIwMzk5/a/NDU
 
 #### Wednesday, April 20
 
-Wednesday, April 14
 What explains economic variations in non-democracies?
 Review the group work question posted on our class notes.  At the start of class we’ll go into breakout rooms to discuss
 Ezrow & Frantz, Ch. 7
+
+Ezrow & Frantz, Read pages 1-5 (through mini section “Beyond Totalitarianism”); 19-23, 174-177 (Argentina); 208-2010 (Mexico); 225-227 (Central African Republic).
+
 
 #### Friday, April 22
 
